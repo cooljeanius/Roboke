@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-30 05:44 UTC\n"
+"POT-Creation-Date: 2023-01-30 15:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,33 +21,33 @@ msgid "RI"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:37
+#: Roboke/_main.cfg:36
 msgid "Sailor"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:37
-msgid "(Easy)"
+#: Roboke/_main.cfg:36
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:38
+#: Roboke/_main.cfg:37
 msgid "Captain"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:38
-msgid "(Normal)"
+#: Roboke/_main.cfg:37
+msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:39
+#: Roboke/_main.cfg:38
 msgid "Admiral"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
-#: Roboke/_main.cfg:39
-msgid "(Difficult)"
+#: Roboke/_main.cfg:38
+msgid "Difficult"
 msgstr ""
 
 #. [campaign]: id=Roboke Island
@@ -3121,7 +3121,7 @@ msgid ""
 "One day Ignisador came running. While purchasing artifacts from seafarers in Blackwater Port, he heard a rumor\n"
 "about nasty 'Fire Dragon'. We always only speculated about the existence of such a being, and here was the opportunity.\n"
 "\n"
-"I was ready for departure withing the hour. It required a few tricks to coax the right information out of\n"
+"I was ready for departure within the hour. It required a few tricks to coax the right information out of\n"
 "the right people, but we boarded up on a large galleon sailing west only two days after that.\n"
 "\n"
 "It was on the second day on board when I saw a memory reflected in the eyes of the captain:\n"
@@ -3439,6 +3439,7 @@ msgstr ""
 
 #. [object]
 #: Roboke/scenarios/25_Fin.cfg:163
+#: Roboke/utils/items.cfg:252
 msgid "Ring of Speed"
 msgstr ""
 
@@ -3653,6 +3654,263 @@ msgstr ""
 #. [message]: id=Roboke
 #: Roboke/utils/deaths.cfg:79
 msgid "Without the ship and its supplies we are lost. Well, maybe life as among these beautiful amazon on the beach is not too bad after all.."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:6
+msgid "Necklace of the healer."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:9
+msgid "This unit is given the power to heal her friends."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:11
+msgid "This unit is given the power to heal himself and her friends."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:29
+msgid "Potion of Healing"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:32
+msgid "A feeling of well-being overwhelms the drinker."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:42
+msgid "Potion of Strength"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:45
+msgid "Strength is given to the drinker."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:61
+msgid "Ring of Regeneration"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:64
+msgid "This ring will heal the bearer a little each turn."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:76
+msgid "Ring of Life"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:78
+msgid "This ring grants the wearer +15 max hp!"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:89
+msgid "Egg of Health"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:91
+msgid "Makes the eater immune to poison (or rather allow to cure it himself)."
+msgstr ""
+
+#. [heals]: id=cure_self
+#: Roboke/utils/items.cfg:98
+msgid "cures self"
+msgstr ""
+
+#. [heals]: id=cure_self
+#: Roboke/utils/items.cfg:99
+msgid "Unit can cure itself from poison."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:110
+msgid "Green Cloak"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:112
+msgid "This cloak allows the wearer to night-stalk and conceal himself in villages!"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:128
+msgid "Silver Armor"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:130
+msgid "A beautiful chest plate crafted from some lightweight shimmering silver metal. Increases all resistances (except arcane) by 30%."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:148
+msgid "Golden Armor"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:150
+msgid "A armor crafted from a shimmering golden metal. Increases all resistances by 20%."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:168
+msgid "Storm Trident"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:170
+msgid "One of the mythical Storm Tridents"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:192
+msgid "Queen Scepter"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:194
+msgid "Incredible Donk."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:211
+msgid "Hammer of Destruction"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:213
+msgid "Incredible destructive power."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:230
+msgid "Flame Sword"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:232
+msgid "This sword will allow you to make melee fire attacks."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:254
+msgid "Increases the speed of the wearer by 3."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:264
+msgid "Staff of Swiftness"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:267
+msgid "This staff will grant the bearer swift movement."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:277
+msgid "Arcane Staff of Lightning"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:279
+msgid "A fine staff that produces arcane fire"
+msgstr ""
+
+#: Roboke/utils/items.cfg:308
+msgid "$unit.name finds a Ring of Regeneration. Should he pick it up?"
+msgstr ""
+
+#: Roboke/utils/items.cfg:309
+msgid "Ring of Regeneration^Take it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:310
+msgid "Ring of Regeneration^Leave it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:311
+msgid "This unit cannot wear this ring."
+msgstr ""
+
+#: Roboke/utils/items.cfg:318
+msgid "$unit.name finds a Potion of Strength. Should he pick it up?"
+msgstr ""
+
+#: Roboke/utils/items.cfg:319
+msgid "Potion of Stength^Take it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:320
+msgid "Potion of Stength^Leave it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:321
+#: Roboke/utils/items.cfg:341
+msgid "This unit cannot drink this potion."
+msgstr ""
+
+#: Roboke/utils/items.cfg:328
+msgid "Staff of Lightning. Should $unit.name pick it up?"
+msgstr ""
+
+#: Roboke/utils/items.cfg:329
+msgid "Staff of Lightning^Take it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:330
+msgid "Staff of Lightning^Leave it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:331
+msgid "$unit.name cannot wield the staff."
+msgstr ""
+
+#: Roboke/utils/items.cfg:338
+msgid "$unit.name finds a Potion of Healing. Should he drink it?"
+msgstr ""
+
+#: Roboke/utils/items.cfg:339
+msgid "Potion of Healing^Take it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:340
+msgid "Potion of Healing^Leave it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:348
+msgid "Sprinkling this water on melee weapons grants them the <i>arcane</i> damage type until the end of the current scenario. Should $unit.name use it?"
+msgstr ""
+
+#: Roboke/utils/items.cfg:349
+msgid "holy water^Take it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:350
+msgid "holy water^Leave it"
+msgstr ""
+
+#: Roboke/utils/items.cfg:351
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:353
+msgid "Holy Water"
+msgstr ""
+
+#. [object]
+#: Roboke/utils/items.cfg:356
+msgid "This water will make melee weapons have the <i>arcane</i> damage type until the end of the current scenario."
 msgstr ""
 
 #. [objective]: condition=win
