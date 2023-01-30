@@ -1,0 +1,76 @@
+2013-10-18 (0.8.10-beta)
+* update unit scattering (particulary sc10)
+* change difficulty to intermediate
+* add barrel of rum to speed up sc10
+* increase difficulty of various levels (stengthen enemies)
+* add image for cave levers (msg and on-game map, sc16)
+
+2013-10-10 (0.8.9-beta)
+* update 00_Test (daytime, remove X2 debug scenario)
+* sc04: make cave-gold visible
+* various cave-turn fixes (heal-sound, regenerate, healthy)
+* sc23 tweak shroud
+* change 'amazon' race to human
+* minor changes to dialog (typo) & story (use bg image in sc 16,17)
+* fix scatter-units+microAI (sc 08)
+* tweak alignment (Rosie becomes lawful, pirates chaotic)
+* dragon recruits drakes (sc 21)
+* update music
+* add perspective distortion to maps & journey (sc 04,08,11,17)
+
+2013-10-08 (0.8.8-beta)
+* shamelessly rip-off elf units; hue-shift green -> amazon :)
+* update various portrait images
+* fix scenario 06 - rosie dies -> defeat
+* update music
+* compress various images (posterize) 15MB -> 9MB
+* fix issue if leader is not on map (cave/hill)
+* MOVE_UNIT_BY -> MOVE_UNIT, animate walking.
+
+2013-10-06 (0.8.7-beta)
+* fix music {INTRO_AND_SCENARIO_MUSIC}
+* update title image and description
+
+2013-10-06 (0.8.6-beta)
+* add and assign music
+* tweak cave map (add roads mostly, change SE cave-castle layout)
+
+2013-10-06 (0.8.5-beta)
+* shrink 06_Amazon_City map on the west
+* fix tile 30,15 on amazon-city map (hill/cave)
+
+2013-10-06 (0.8.4-beta)
+* switch to use new wesnoth-1.11 map in stories
+* fix various typos in messages and update campaign description
+* add cave to scenario 06_Amazon_City
+* fix lurker-AI in scenario 10_Southern_Cliffs
+
+2013-10-04 (0.8.3-beta)
+* update number of turns
+* unify [objective] messages (use macros)
+* add Forum URL to description.
+* fix 'slowed' on {FULL_RECOVERY}
+* update dwarven_map image
+* [re]assign starting villages
+* Roboke: retain leadership ability when advancing
+* add various ornaments (items, scenery)
+
+2013-10-04 (0.8.2-beta)
+* add wmlint ignores and fix many warning reported by wmlint
+* fix more spelling mistakes
+* overhaul some macros (gold variables, don't use macros in messages)
+
+2013-10-03 (0.8.1-beta)
+* change 'beta' version numbering (wesnoth version compatibility)
+* remove newlines in main description.
+
+2013-10-03 (0.8-beta3)
+* add forum topic URL
+
+2013-10-02 (0.8-beta2)
+* fix version compat wesnoth-git + 1.11.6 (MISSILE_FRAME_MUZZLE_FLARE_MISS)
+* update description
+* fix some spelling mistakes
+
+2013-10-02 (0.8-beta1)
+* first public release

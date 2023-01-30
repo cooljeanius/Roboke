@@ -1,0 +1,43 @@
+border_size=1
+usage=map
+
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Co, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Co, Co, Co, Co, Co, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Co, Ket, Co, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Co, Co, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Co, Co, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Co, Iwr, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Iwr, Co, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr^Bh\, Iwr^Bh\, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Iwr^Bh/, Iwr^Bh/, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr, Iwr^Bh\, Iwr^Bh\, Iwr, Iwr^Bh|, Iwr, Iwr^Bh/, Iwr^Bh/, Iwr, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr, Iwr, Iwr, Ce, Ket, Ce, Iwr, Iwr, Iwr, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Iwr, Iwr, Iwr^Bh/, Ce, Iwr^Bp|, Ce, Iwr^Bh\, Iwr, Iwr, Iwr, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr^Bh/, Iwr^Bh/, Iwr, Iwr, Iwr^Bp|, Iwr, Iwr, Iwr^Bh\, Iwr^Bh\, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr^Bh/, Iwr, Iwr, Iwr, Iwr, Iwr^Bp|, Iwr, Iwr, Iwr, Iwr, Iwr^Bh\, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr^Bp|, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr^Bp|, Iwr, Iwr, Iwr, Iwr, Iwr, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr^Bh\, Iwr^Bh\, Iwr, Iwr, Iwr, Ket, Iwr, Iwr, Iwr, Iwr^Bh/, Iwr^Bh/, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Iwr, Iwr^Bh\, Iwr^Bh\, Ket, Co, Ket, Iwr^Bh/, Iwr^Bh/, Iwr, Iwr, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr, Iwr, Iwr^Bh/, Ket, Ket, Ket, Iwr^Bh\, Iwr, Iwr, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Iwr^Bh/, Iwr^Bh/, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr^Bh\, Iwr^Bh\, Iwr, Iwr, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr^Bh/, Iwr, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Iwr, Iwr^Bh\, Ket, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Ket, Ket, Ket, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Ket, Ket, Ket, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Iwr^Bh|, Iwr, Iwr, Iwr, Ket, Ket, Ket, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Iwr, Ket, Iwr, Ket, Iwr, Ket, Iwr, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Co, Co, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Ket, Co, Co, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo

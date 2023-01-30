@@ -1,0 +1,409 @@
+# Roboke's mystic Island
+
+Location
+========
+A remote island in the great ocean west of Wesnoth.
+
+Huge Mountain/Volcano in the center (dragon)
+East: wet, rainy full of rivers and cascades (farmland)
+North: beautiful shores. 'Breeding ground' for Merpeople
+West: predominantly dry - home of the amazon women
+South: inaccessible cliffs, mountains - underwater caves
+
+The whole mountain is an underground-cave and the
+clue of this campaign is a two layer map.
+
+The center can only be reached from the east-side - give or take a
+few hidden cave entrances..
+
+The natural formation of rivers on the east side of the island has been exploited
+to construct an elaborate systems of dams and semi-artificial lakes in the hills.
+Which allows to cut off parts of the island from others (incl caves).
+
+The Heroes
+==========
+
+The Protagonist is "Captain" (actually Admiral) Roboke. Seafarer in the employ
+of the City of Elensefar.  He is sent on a secret mission to follow smugglers.
+
+On board with him is are First Mate "Skipper" - he's a better drinker and fighter
+than a Navigator, but he knows all the captains and boats that passed though Elensefar
+since he was 5 years old..
+
+And an expert Canoneer - delegated by the city-council to join this secret mission
+(yes, he's a dwarf).
+
+In the first scenario, our team captures Miss Rosie - who will join the forces
+(against her own kind) in chapter 6.
+
+In the middle of the 2rd Part (chapter 13), the party frees a red-mage - currently
+called 'Reddie'.
+
+Many heroes come and go throughout this story. eg. Mdme. Mere, but the aforementioned
+five need to make it to the end. Quite literally.
+
+Short History of the Island
+===========================
+
+ * Mermaids were there first, huge underground volcanic caves
+ * Island rose, dragons came
+ * Human Explorers -> discover gold & jewels, influence mermen society.
+ * ship with dwarf and goblin workers arrives, mining operations
+ * many male killed in battle with dragon
+ * ship with elf + mage arrive -> enchant dragon
+ * slow decadence.. - dragon enchantment backfires; undead priest, elf+dragon
+ * main caves cut off, mining NE only.
+ * mer-men enslaved to find pearls
+ * Human females organize to Amazonian fighters, mermaids into temple-mistresses
+ * many [men] flee - become pirates/smugglers living in the SW and transport goods to main-land
+ * PLAYER ARRIVES
+
+
+Main Story Arc
+==============
+
+(1) Stranded, fight Amazon warriors and mermaid fighters, free male-slaves,
+    confront Amazon-queen and ally with mermen.
+		men (+mermen) vs. women + mermaids & saurians
+		east, north, north-west shore.
+
+(2) Capture boat from pirates (southeast), sail around the island:
+    find old maps on the southern shore cliffs,
+		free male prisoners (mage) in the north-east offshore islands.
+		re-take south-east from saurians and goblins.
+		men + mermen vs pirates
+		men + mermen vs sea-monsters, prison-guards,
+		men + mermen vs saurians (SE)
+		men vs goblins + trolls (CAVE)
+
+		ship vs sea-monsters; ship vs bats (?)
+
+(3) fight through caves to the inner island, dragon habitat and water-levers
+    defeat dragon-master. flood sandbank -> free boat
+		men (+ mermen) vs. bats, vampires, ghosts, dragon(s)
+
+(4) follow the dragon/elf-ghost through the caves.
+    Use the boat to reach the secluded valley of the
+    all vs. dark-adept + undead elf-necromancer showdown.
+
+
+Part I: Stranded
+================
+
+Background story -- the tale of the mermen
+------------------------------------------
+
+(Player gets most of this info after the 1st part, when freeing mermen on the north short)
+
+The mermen were on this spot for a long time.
+
+There is underwater fire that warmed the water pleasantly but more importantly
+the sea created stone out of the fire, it spew out arcs and columns which were then
+crafted by mermen into a large temples and a surrounding underwater city.
+
+It was the largest underwater village and a holy place to mer-kind.
+
+But the flow of stone was relentless and only within a few generations..
+
+...the fire was above ground without water to stop it.
+And with the fire, there came the dragons.
+
+The dragons continued our work and shaped the hills, collapsing some of the
+larger underwater temples into lakes and laid the groundwork for tunnels.
+
+It took only a few more years until thing settled down
+and one day a great rumble and the middle of the island blew off in a great
+fountain of fire.
+
+The legend says that it was so hot that it could even burn dragons.
+because after that many of them were gone and there was large crater in
+the middle of the island where most of the drakes had been.
+
+The changes to our society however were not as fast to adapt. It took
+a generation - all those how had known the underground tunnels - until
+merkind accepted the loss of the temples to the land and the dragons.
+And various foolish events to retake the old sacred ground were abandoned.
+
+The dragons prefer the hills and can avoid water in general.
+and we mermen kept to the water.
+
+There were still occasional conflicts - mostly on the green eastern-part of the
+island where dragons occasional hunt and mermen cultivated fish and crabs or
+sometimes hang out in the south-eastern marshlands;
+but it was quiet and peaceful time in general.
+
+Then men came. Maybe 50 of them.
+They replenished supplies, fixed various parts of their ships and
+on the day after they encountered the first dragon, some of us mermen
+agreed to make contact as well.
+
+It was maybe our advice to keep away from the hills or the recommendation to leave
+that made them look further.. but shortly thereafter they found shiny gems of
+breathtaking colours in the eastern hills. And half of the men
+left in a hurry on the boat.
+
+Over the following weeks, the men left behind grew bored and fancied
+the company with the mer-kind, swimming, telling tales and some trading.
+
+They also took a great liking to our women and were making them presents:
+gems that they crafted from the shiny stones in the hills.
+Ornating their beauty to the point of worshipping them as goddess.
+
+And then the ship came back and it was not only one ship, but ten.
+And they brought not only men but also very small men the size
+of children but with long beards. There were also soldiers that surrounded
+their body in metal and using long pikes.
+
+It was a curious sight from afar.
+The soldiers were able to drive the dragons away with the pikes
+And the small men dived into the mountains, expanding the old
+tunnels and mining even bigger jewels.
+
+Women started cultivating the fields on the eastern shore
+and men started building three castles close by.
+One in the southern swamp which is hard for the dragons to access
+and two in the north-eastern lagoon lakes.
+
+The southern swamp is a place frequented by mermaid lovers the
+southern caste was built as a temple to a beautiful mermaid named
+"Lolita". Some of the men and even women came to see her and bring
+her gifts and worship her.
+
+(some of the men drew comfort and engergy from the audiences,
+others only came to the city for playing and entertainment)
+
+The place also attracted many other young mermaids who would like
+to live some of Lolita's glory.
+
+At that time mer-men started to compete with the men's presents and gifts.
+Diving deep, searching unique shiny pearls in the waters and silver algae
+strands. Many even adopted the worshiping and female leadership.
+
+It was around that time that the humans killed the first dragon and bolstered
+by the victory started building more castles to fortify the position in the eastern
+hills.
+
+
+Seeing the fortifications in the hills, Lolita asked the men to take
+back the old holy ground - the lake north of the crater - from the dragons,
+and build a second temple for her there.
+
+Lolita ordered some mermen to assist the humans.
+
+It was the mermen and dwarfs that eventually made the difference:
+Together they build a large system of water-gates: both underground and over-ground.
+
+...Collapsed parts of mountains. At first they closed off the eastern part of the island.
+There were only two passes in and out of the mountains.
+
+Many of the men moved to the west which was then inaccessible by the dragons, while
+the dwarfs expanded the tunnels in the east, connecting them with the dragon
+caves and flooded large parts of them with water from two sides, locking the dragons in.
+
+
+With other ships there came small ugly creatures, small like the dwarves but they were not
+proud miners but the aggressive dirty kind. The men whipped them, tied them up in chains and
+made them work in the mines and offering them up as dragon fodder if necessary.
+
+
+Construction of Lolita's temple went all but smooth.
+
+The remaining dragons were still strong and fortified their position in the center
+and not only held the ground around the crater-lake but also attacked the endeavour
+to build the temple north of it, killing many of the dwarves both who were along
+with some mermen, the main workforce on tunnels and castles in the mountains.
+
+It was also the dwarves that noticed the value of the pearls and jewels that mermen
+bragged about to have brought back from the deep water.
+
+Lolitas' temples was never completed. In the heat of the battles and reorganization
+many of the mine-shafts were strategically collapsed and fewer jewels came out of the
+mountain.
+
+At first it was Lolita who sent mermen to search for underwater jewels to spur on
+the dwarves, and compensate them for the collapsed mines.
+Soon it became a sport to become a merman diver, then an obligation,
+and not long after slavery.
+
+Men started to enclose the north-shore area where most of the pearls were found
+and built camps for mer-men divers shipping off many of the harvested the pearls.
+
+The whips and shackles that were in regular use for the goblin miners were soon
+commonly used to convince and coerce mer-men as well.
+
+But the dwarves were greedy, it turned out that they built their own set of tunnels
+and did not flood all of them permanently but constructed a complex system of levers
+and traps..
+
+We don't know if it was a mistake or intention by the dwarves but they left an open cave
+to the east. One day a hoard of dragons emerged and destroyed much of the eastern shore,
+killing Lolita on their way and freeing some of the goblins on the way who turned against
+the humans.
+
+While many though this would bring an end to the matriarchy amongst mer-kind it turned
+out to be the opposite. Mermaids fighting for dominance, enslaving their own kind sometimes
+with the assistance of humans, building cages and nets.
+
+With the next boat there arrived two very strange creatures a robed human that was worshipped
+and a pointy eared woman that emitted a slight glow and seemed to never touch the ground
+but always slightly float above it.
+
+Soon after their arrival, the dwarves vanished and after some ferocious battles that took
+many men's lives, the dragon attacks suddenly stopped.
+
+The tale is that they used some magic to tame the dragons, but after a moon's time it turned out
+that the spell comes at a cost. Sacrifices will have to be made.
+
+Some Mermen were ordered to assist building a temple in the heart of the crater in the dragon's lair.
+but few who have seen it ever returned.
+
+Meanwhile most of the remaining mer-men were imprisoned in the northern enclave,
+not allowed to leave and guarded by vicious mermaids when diving for pearls.
+
+(With the dwarves and most of the fighters gone), a similar changed happened to the human society.
+Rich traders who lived on the western shore soon succumbed to both women and mermaids.
+
+
+The mermaid story -- after conquering the north-west-shore
+----------------------------------------------------------
+
+ - mermaid leader
+
+Background story:
+
+ - decadence ruled
+ - some guard turn to pirates -- using the south-western island as hangouts
+ - women and mermaid become dominant on the island.
+ - mermaids cut off supplies and control the island.
+ - women control the northern path and farmland in the east.
+ - exchange with the mainland subsided
+ - mostly pirates doing the trades
+ - predominantly pearls - but mining continued in north-eastern caves.
+
+Amazon women story - after conquering the west-shore
+----------------------------------------------------
+ - human mistress defeated
+ - she was scholar under the human priestess
+
+ - the elf facilitated to swap minds of the
+   human priestess and the dragon.
+ - the priestess/dragon was imprisoned in the keep
+
+ - spell goes wrong and the dragon breathes fire
+   killing both the priestess and the elf.
+ - Elf's mind becomes trapped in dragon
+   (priestess and elf corpses become undead leaders)
+
+ - demands human sacrifices.
+ - A men, mermen or human virgins need to be burned by its fire
+   to maintain the spell. (mermaids are safe)
+
+ - dragon demands a man from every ship coming ashore.
+ - mistress 'organizes' the ritual.
+
+ - There is a prison camp on an island north east.
+
+ - There are rumors that some dwarves retreated to the mountain islands in the south
+
+ - wild-goblins live in south-easter parts of the caves
+ - north-eastern part: man & goblin mining
+ - central part of the cave is accessible though the crater.
+ - sacrifices by boat from the castle north-east.
+ - there are hidden entrances to the caves and some of the water-levers still work.
+ - but she does not know how to operate them
+ - and a flooded gateway from the east
+
+ - mermen asks if dragon can be defeated
+ - human mistress knows some spells (and prayers against undead) :)
+ - mermen ask PLAYER to assist defeating the dragon
+
+
+Part II: Quests
+===============
+
+ * pirates in the south -> ships
+
+ * party 1:
+   - find the [dead] dwarves on the southern cliffs: map, trap & lever info
+	 - sail to levers (SW fjord)
+	 - peak into western-caves (learn about undead)
+	 - change the waterflow (free cave 59,42) -> cave-connection
+	 - pass with ship though connection, enter caves
+ * party 2:
+   - take ships around clockwise
+	 - find 'magic weapon' on the way on the NW island ??
+	 - free prisoners in the NE -> mage(s)
+	 - take ships up towards the center from the east via altered waterflow
+	 - enter caves
+
+Old Dwarven Map
+---------------
+ - there are 5 hidden entrances in the west
+ - The scarified men turned undead and live in the underground caves
+ - the spell guards the entrances - the undead cannot leave
+ - water lever on easter-cave still works.
+
+Surrounding the Island
+----------------------
+ - one party goes back clockwise sw -> east by ship
+   * NW: sea-monsters, NE: free prisoners (mage)
+	 * return East to enter the caves (start move-boat to 113,60)
+	
+ - 2nd part continues by ship counterclockwise:
+   * souther cliffs -> old dwarven map
+	 * enter secret passage to alter the waterflow
+	 * through the hills by boat (!) enter cave 82,50
+
+-> meet up inside the caves later
+
+
+Part III + IV: The Inner Island
+===============================
+
+ - first-party: eastern-caves
+ - 2nd party pass with the boat through 92/72 tunnel, reach castle 82,50
+ - 3rd party: rouge amazon secretly enter caves from west -> unleash bats to map!
+ - A+B conquer caves east of the crater, prepare attack
+ - kill undead priest in main chamber
+ - kill dragon on island (help from pirates that come by ship from north)
+ - pursue elfish ghost to western caves
+ - show-down in N/W cave-castle (did anyone mention lava, already?)
+
+
+###############################################################################
+Scenarios
+
+(I)
+ 1 A Noble Request (story only)
+ 2 Landing Party
+ 3 Follow the Trail
+ 4 North Shore
+ 5 Moving West (story only)
+ 6 City of Amazonians
+ 7 Queen of the Amazon (story only)
+
+(II)
+ 8 Pirate Bay
+ 9 Off shore (boat drifting)
+
+10A Southern Cliffs
+11  Dwarven maps (story)
+
+12B(a) Ocean Perils -- north-west
+12B(b) Ocean Perils -- offshore (another round of rat cleaning)
+13B Prison Camp -- north east
+14B East again
+15B The eastern caves
+
+16A Levers (southern cliffs part II)
+17A Through the hills (boat trip up north)
+
+(III + IV)
+18C Secret Passages (Amazon enter from west, story: Insidious Deceit.)
+19 Reunion (A+B inside caves) -> tie in with (17A) ?!
+20 Ka'lalau's Lair (story)
+21 Crater Island
+22 Caves of O'ceb (A+B+C)
+23 The Ghost of O'ceb
+24 The failsafe solution -> run from lava (lava+water; fog of war)
+25 FIN (story only)

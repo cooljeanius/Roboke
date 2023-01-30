@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Rr          , Qxu^Ewf     , Qxu^Ewf     , Gll         , Gll         , Gll         , Rr          , Urb         , Urb         , Xv          , Xv          , Xv          , Xv          , Xv          
+Gg          , Gg^Ii       , Gg          , Gg          , Rr          , Gll         , Gll^Ii      , Gll         , 1 Gll       , Gll         , Rr          , Urb         , Urb         , Urb         , Xv          , Xv          , Xv          , _off^_usr   
+Gg          , Gg          , Gg          , Gg          , Rr          , Wwt         , Gll         , Gll^Br\     , Gll^Br\     , Gll         , Rr          , Qlf         , Urb         , Urb         , Xv          , Xv^Ii       , Xv          , _off^_usr   
+Gg          , Gg          , Gg          , Gg          , Rr          , Wwt         , Gll         , Gll^Br/     , Gll         , Gll^Br\     , Rr          , Urb^Efm     , Urb         , Urb         , Xv          , Xv          , Xv          , Xv          
+Gg          , Gg^Dr       , Gg          , Gg          , Rr          , Wwt         , Gll         , Gll^Br|     , Gll         , Gll^Br|     , Rr          , Urb         , Urb^Ii      , Urb         , Xv          , Xv^Dr       , Xv          , Xv          
+Gg          , Gg^Ii       , Gg          , Gg          , Rr          , Wwt         , Gll         , Gll^Br\     , Gll^Br|     , Gll^Br/     , Rr          , Urb         , Urb         , Urb         , Xv          , Xv          , Xv          , Xv          
+Gg          , Gg^Dr       , Gg          , Gg          , Rr          , Wwt         , Gll         , Gll         , Gll^Br|     , Gll         , Rr          , Urb         , Urb^Efm     , Urb         , Xv          , Gg          , Xv          , Xv          
+Gg          , Gg^Ii       , Gll^Br\     , Gg          , Rr          , Wwt         , Wwt         , Gll         , Gll^Br|     , Gll         , Rr          , Urb         , Urb^Dr      , Urb         , Xv          , Xv          , Xv          , Xv          
+Ds          , Ds          , Gll^Br|     , Gll         , Rr          , Wwt         , Gll^Dr      , Gll^Br/     , Gll         , Gll         , Rr          , Urb         , Urb^Ii      , Urb         , Xv          , Gll         , Xv          , Xv          
+Ds          , Ds          , Wwt^Br|     , Gll^Br\     , Rr          , Gll         , Gll         , Gll         , Gll         , Gll         , Rr          , Urb         , Urb         , Urb^Dr      , Xv          , Xv          , Xv          , Xv          
+Ds          , Ds          , Qxu^Ewf     , Gll^Br|     , Rr          , Gll         , Qlf         , Gll         , Gll         , Gll         , Rr          , Urb         , Urb         , Urb         , Xv          , Urb         , Xv          , Xv          
+Ds          , Ds          , Wwt         , Qxu^Ewf     , Rr          , Gll         , Gll         , Gll         , Gll         , Gll         , Rr          , Urb         , Urb         , Urb         , Xv          , Xv          , Xv          , Xv          

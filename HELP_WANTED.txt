@@ -1,0 +1,79 @@
+Help Wanted
+===========
+Roboke Island is a huge project, if you like it, please consider contributing.
+The first and foremost issue is play-testing: Find bugs, help balance
+scenarios,..
+
+Please also see the TODO file. If you want to get involved further,
+there's a wish-list of items below.
+
+As always, any feedback is welcome.
+http://forums.wesnoth.org/viewtopic.php?f=31&t=39423
+
+Screen Writing
+==============
+
+  - revise dialogs & story - it's currently rather verbose.
+	- improve Inglisch
+	- check for non-linearities & inconsistencies
+	- new character-names for supporting actors
+	  e.g. "Aloha" the merman, "Reddie" the red-mage, "Blackie" Amazon,
+		"Ignisador/Oceb" Great/Evil mage, "Ka'la'lau" the dragon,...
+
+
+Graphic Design
+==============
+
+The three main character could use some personality.
+
+ * Admiral Roboke, Captain of a galleon, island explorer and protagonist
+currently uses 'portraits/humans/transparent/duelist.png' which works well but
+could use some individual characteristics. 
+
+ * Monsieur Canoneér, the dwarvish canon expert
+currently uses 'portraits/dwarves/transparent/thunderer.png' which kind of fits.
+Somewhere along the story he 'invents' some amazing ship-mounted canon, but he's
+not always on board and also uses his thunderstick regularly.
+Monsieur Canoneér is from the royal special task force commando, although the
+story leaves it up for interpretation if that's a ruse, he's a bit of an
+entertainer, too.
+
+ * Mistress Rosie, the first opponent turns into an ally in scenario 6
+She's a somewhat sexy Amazon (matriarchy, dominant female), but the childish
+playful type, always ready to quip and fool around. The unit is a Thief,
+advancing to Assassin.
+
+Oh and there's the [Amazon] Queen, she's a real dominant female. The current
+image is somewhat sexist (but rightfully so). She not only seduces men (and
+mermen) but also has them burned alive. A gorgeous ferocious vamp.
+
+Pretty much all graphics could be improved, actually :)
+
+The weakest images are IMHO 
+  - images/story/roboke_dragon.png
+	- images/story/old_book3.png
+	- images/story/dwarven_map1.png
+
+
+Unit Design
+===========
+
+ * Amazon Warriors. https://en.wikipedia.org/wiki/Amazons
+They're currently Elvish Archers, Elvish Shamans and their advancements.
+That works very well, except for the pointy ears :)
+Some of the 'mistresses' are also thief/assassin units where it's appropriate:
+skirmish, backstab, poison :)
+
+The story originally intended them to be a mix between human and mermen:
+  "It turned out that either combination will only produce a woman, elf-like,
+but aging faster than normal humans, much like hatching from an egg directly
+into puberty."
+
+Yet, since merpeople probably lay eggs, and the inter-species mix became
+irrelevant to the storyline, it's no big deal. In the story grown-up
+amazon warriors are however only 2-4 years old. Hey, it's fantasy.
+
+ * Dwarvish Galleon & Speed Boats
+see units/boats.cfg
+They could use some graphic-design, attack animation as well as clean-up.
+Oh, and 'SpeedBoat' needs a better name.

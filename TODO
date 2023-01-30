@@ -1,0 +1,39 @@
+see also HELP_WANTED.txt
+
+General ToDo
+------------
+* edit dialogs & story (see also storyboard.txt)
+* check starting village assignments in each scenario
+* clear 'objectives' messages for each scenario
+* add some ornaments to the maps: items, scenery,..
+* tweak time-of-day per scenario
+* add sound-effects where appropriate, revise music
+
+* tweak 'Amazon' unit type
+* traits, mods for each character according to story
+* queen's unit type (amazon queen), Blackie's unit type (amazon centurion)
+* portrait || unit-type for Mera, Blackie
+* change names of supporting actors, Rosie, Blackie,..
+* 'last breath' messages.
+
+* set up optional grand-battle in 25_Fin (yes I want more NMEs)
+
+* balance scenarios  gold/units/... HARD/EASY
+* playtest, playtest, playtest & playtest
+
+Inconsistencies
+---------------
+* fix map or story: cove with drain-lever is underground/water in sc16 (else just water)
+* add water-drain 'sink hole' to southern scenarios 8,10 (similar to sc16) ?
+* when storing units at the end of a scenario, leave a fake image in place.
+
+Coding
+------
+
+* see TODO marks in the source */*
+
+* unify [gold] MACROs: hidden|visible|chest || cave,land,both
+* clean up .cfg coding style -> macros + style + ordering
+
+# Note when modifying the main map:
+  -> new villages in mountains -> landvillages  in utils/cave_*
