@@ -1,0 +1,3666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2023-01-30 05:44 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:31
+msgid "Roboke's Island"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:32
+msgid "RI"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:37
+msgid "Sailor"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:37
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:38
+msgid "Captain"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:38
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:39
+msgid "Admiral"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:39
+msgid "(Difficult)"
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:45
+msgid ""
+"Mystic Island Quest\n"
+"\n"
+"Embark from Elensefar on an expedition to the west that will not only change your life but conearn the fate of many.\n"
+""
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:48
+msgid ""
+"\n"
+"«Unraveling the mystery of Roboke's Island is a magic experience.» <span foreground='gray' size='x-small' style='italic'>(Weldyn Gazette)</span>\n"
+"«The adventures of Roboke and his side-kick are truly stunning.» <span foreground='gray' size='x-small' style='italic'>(Knalga News)</span>\n"
+"«Ferocious battles and mysterious riddles await you.» <span foreground='gray' size='x-small' style='italic'>(Wesmere Post)</span>\n"
+""
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:52
+msgid ""
+"\n"
+"\n"
+"<i>Want a dragon?</i> Sure. <i>A Queen?</i> Got you covered. <i>Magic?</i> Right! <i>Can I have a Pony?</i> No. Trolls are not allowed on board, either :) But you may enjoy the unique hop-on-hop-off boat-cruise in the cursed southern cliffs of Roboke's Island or fancy a swim with the mermaids up north..\n"
+"\n"
+""
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:56
+msgid ""
+"\n"
+"This campaign features dual-layer scenarios (move units between cave and hills on the same map) and ship hop-on/off scenarios.\n"
+""
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:58
+msgid ""
+"\n"
+"(<span foreground='gray'>Beta version, requires wesnoth v1.11.6 for MicroAI.\n"
+"The storyline is complete and all scenarios are playable. Feedback at</span> <span foreground='blue'>http://r.wesnoth.org/t39423</span>)\n"
+""
+msgstr ""
+
+#. [campaign]: id=Roboke Island
+#: Roboke/_main.cfg:61
+msgid ""
+"\n"
+"(Intermediate Level, 18 playable scenarios + 6 story chapters)\n"
+""
+msgstr ""
+
+#. [about]
+#: Roboke/_main.cfg:66
+msgid "Head Honcho"
+msgstr ""
+
+#: Roboke/scenarios/00_Test.cfg:65
+msgid "TheOneWithTheAnkhFrom02"
+msgstr ""
+
+#. [then]
+#. [event]
+#: Roboke/scenarios/00_Test.cfg:101
+#: Roboke/scenarios/13_Prison_Camp.cfg:304
+#: Roboke/scenarios/13_Prison_Camp.cfg:317
+msgid "Reddie"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#: Roboke/scenarios/00_Test.cfg:106
+#: Roboke/scenarios/08_Pirate_Bay.cfg:364
+msgid "Clara the Galleon"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#: Roboke/scenarios/00_Test.cfg:115
+#: Roboke/scenarios/00_Test.cfg:125
+#: Roboke/scenarios/08_Pirate_Bay.cfg:356
+msgid "Vanessa the Galleon"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/00_Test.cfg:156
+#: Roboke/scenarios/13_Prison_Camp.cfg:80
+msgid "Reknuk"
+msgstr ""
+
+#: Roboke/scenarios/00_Test.cfg:158
+msgid "didIhaveAname"
+msgstr ""
+
+#. [message]: id=Roboke
+#: Roboke/scenarios/00_Test.cfg:167
+msgid "What experience should I have?"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/00_Test.cfg:169
+msgid "46 xp points"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/00_Test.cfg:179
+msgid "Level me up"
+msgstr ""
+
+#. [scenario]: id=test
+#: Roboke/scenarios/00_Test.cfg:199
+msgid "Test and Debug"
+msgstr ""
+
+#. [side]
+#: Roboke/scenarios/00_Test.cfg:211
+msgid "Roboke"
+msgstr ""
+
+#. [objective]: condition=win
+#: Roboke/scenarios/00_Test.cfg:226
+msgid "Jump to a scenario to test"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Marshal
+#: Roboke/scenarios/01_Overture.cfg:45
+msgid "Governor Gray of Elensefar"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Marshal
+#: Roboke/scenarios/01_Overture.cfg:51
+msgid "Adviser"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/01_Overture.cfg:57
+msgid "Captain's Log: Today it is one moon since we sailed out of Elensefar. Straight west, past the three sisters and on into The Great Ocean. The wind is still in our favor and the waters around has been calm for the last days. After the rough start it was nice to have a night of star-gazing and card games on deck. Besides, we must be getting close now."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/01_Overture.cfg:60
+msgid "But we must go back a bit further. To the harbor of Elensefar. 28 days ago now."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/01_Overture.cfg:69
+msgid "With a surprise visitor coming aboard, off-shore."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:86
+msgid "It's Governor Gray..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:87
+msgid "All hands on deck!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:95
+msgid "Delay that order. We don't want to draw too much attention, right now."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:106
+msgid "It is an honor to have you on board, Sir."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:107
+msgid "The honor is ours... but quick now: look backbord."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:114
+msgid "See these two ships? Smugglers trading off-shore. Remember the sails of the right one and note the unusual large aft of the ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:118
+msgid "Indeed. That is not a ship typically fancied by smugglers. This one is sturdy. but it is neither a war galleon nor a transport ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:125
+msgid "Many ships come to Elensefar, merchants, sailors and smugglers alike. Trade with jewels is not unusual either. But in recent years there has been a surprising regularity to the proceedings."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:129
+msgid "The harbour guard arrested some casual smugglers, and the royal fleet burned out a pirate nest on the northern peninsula, yet the regular flow of - shall we say - unusual objects did not subside."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:133
+msgid "It was 6 month ago when several things happened at the same time. A large shipment of pearls arrived - quite out of season, which - by itself - is not too unusual, but it also arrived almost exactly 3 moons after a previous similar shipment."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:137
+msgid "At the same time some older sailors started spreading rumors of seeing the ghost ship of the old Expedia One and the taverns were full of talk about a mystic island, inhabited by beautiful women. The usual cock-and-bull stories to most people."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:142
+msgid ""
+"Except my Adviser here started piecing things together.\n"
+"You may not know that seven years ago the city sent out three expeditions to the west. Nine ships, large and sturdy, built for long-time sea-travel."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:149
+msgid "The first fleet of three returned early after a storm just past the Three Sisters, but the other two expeditions were never seen again."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:155
+msgid "We now belive that the first fleet - or maybe just some of them - found an island. For all we know, the expedition went well, except that they did not share the knowledge."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:159
+msgid "They have been shipping pearls and gold every three months, for the last years and only recently became sloppy with regularity. Risking exposure of their ship, selling their goods in large chunks in a short time and reselling to local smugglers that cannot be trusted."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:165
+msgid "Quite Right. Like selling to my Adviser here, for example."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:169
+msgid "Well. Today marks the third time that we've spotted the Expedia One. Exactly 3 moons after her last visit and exactly 6 moons after the one before. Which leaves us with the conclusion that the island is about a moon's sail away give or take a week."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:173
+msgid "So, you may now see why we do not want to draw too much attention to my visit here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:177
+msgid "Yes, my Lord. But surely you would not have needed to come here in person?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:181
+msgid "I had to see it for myself. Besides it is I who gives orders to Admirals of the fleet, not my Adviser."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:185
+#: Roboke/scenarios/01_Overture.cfg:206
+msgid "???"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:189
+msgid "The city council wishes to investigate in quiet, rather than take the traitors by force."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:196
+msgid "Sending a whole fleet after them into the open sea is as unwise, as would be marshalling another big expedition to follow."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:200
+msgid "We would like one of our best Captains to follow the Expedia One silently...  Did I say Captain? I meant Admiral."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:212
+msgid "Congratulations, Captain Roboke. I hereby promote you to Admiral."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:216
+msgid "Admiral. Me?! Thank you my lord."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:220
+msgid "I am sorry, Sir Roboke that we cannot hold a proper ceremony."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:226
+msgid "The Governor will leave a small battalion of his forces under your command. Your Skipper here was already around in Elensenfar when the exhibitions left. He should know some of the old captains and sailors that vanished."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:230
+msgid "We will also provide you with an expert canonneer, but we hope it does not come to the worst. Your task is to investigate."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:234
+msgid "Expert canonneer? We do have good canons as well as a good fighting crew already..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:238
+msgid "Aye, which is one reason why we chose this ship, but you'll find that you can still learn some new gunpoweder tricks from.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:247
+msgid "Monsieur Canoneér reporting for duty, Admiral."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:251
+msgid "A dwarf?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:255
+msgid "Monsieur Canoneér is an expert from the royal special task force commando."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:259
+msgid "But quick now, they're lifting anchors. Ahoy."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:263
+msgid "Good Luck, and safe journey. We will be looking west for you in 3 months time."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/01_Overture.cfg:273
+msgid "Anchors away!"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:28
+msgid "We managed to follow the Expedia One without attracting attention for the first two weeks. It was remarkably easy to keep a large distance, catching up during sunset and twilight only and not loose the trail."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:32
+msgid "Until the storms came. The further out west, the more ferocious the wind and the waters became capricious. It was a tough decision to rather risk revealing ourselves that loosing track and sight. Eventually the weather made the decision was made for us."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:36
+msgid "18 days into the journey morning broke with a storm like none of use had ever experienced before. We were engulfed in a mist so dense one could not make out one end of the bridge from the other. It was then, we lost track of the Expedia One for the first time."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:40
+msgid "We were drifting wildly, but luckily in the same direction as the Expedia. We could make them out in the morning mist, two days after the storm subsided."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:44
+msgid "The happiness was short lived. While the sailors drew courage from surviving the storm and being on track again, the soldiers who are not used to a long time at sea, even less to wild storms and short rations grew murkier still."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:48
+msgid ""
+"It was at dawn two days when we lost them again. The hope to spot them again in the morning turned out false. The sea and the wind were calm so they cannot have gone far...\n"
+"\n"
+"But the crew grew even more restless. The strange movements about in the dark water around us do not help to make things quieter. Although they do not concern me as much as the lost trail. After all, the Expedia One also sails these waters."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:54
+msgid "Day 30: Land in sight! And what a beauty in the middle of nowhere it is. The southern shore is steep cliffs and the eastern side ahead of us is green, low hills criss-crossed by many rivers and cascades."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:58
+msgid "Yet there was no sight of the Expedia, nor any other ship, but it was a foggy day. so who knows. After a month on board, everyone was eager to get ground under the feet again."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/02_Landing_Party.cfg:62
+msgid ""
+"Only few remained cautious. One does not just step onto new territory unprepared. Besides, if this is the mystic island, we cannot not risk exposing ourselves neither on foot nor on ship. Even in misty weather someone looking from the cliffs would notice a galleon.\n"
+"\n"
+"But a lookout on those hills may spot the Expedia One. So: Skipper, 'Keep close to the shore and head for that little cove 20 degrees steerboard!'"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:211
+msgid "Let's anchor in a hidden spot near those trees. At least we can refurbish our supplies and send a lookout to the hills."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:214
+msgid "Careful Skipper! There's a sandbank up aheaaaaaaaaaa......"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:248
+msgid "What was that?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:250
+msgid "It seems we're not alone. (to crew: but she looks allright, maybe this is the mystic place with beautiful women after all.)"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:253
+msgid "You will not leave this place. You will surrender and join the slaves or die."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:254
+msgid "She is gorgeous giving commands like that."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:271
+msgid "Ha! Capture them and tie them up, kill everyone who resists."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:275
+msgid "We shall see."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:277
+msgid "(to crew: Let's move move to the fort just north from here. It offers a good ground for defence. Then we can see if we can repair the ship.)"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:287
+msgid ""
+"Coming out to sea was bad enough. And now sand, rivers and trees..\n"
+"The cliffs and mountains look all right, though."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:290
+msgid "I'll just enjoy the view and keep guard of the ship, those Saurians don't look too trustworthy."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:299
+msgid "Defeat Rosie"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:300
+#: Roboke/scenarios/04_North_Shore.cfg:247
+#: Roboke/scenarios/04_North_Shore.cfg:425
+#: Roboke/scenarios/06_Amazon_City.cfg:181
+msgid "Death of Roboke"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:301
+msgid "Death of Skipper"
+msgstr ""
+
+#. [event]
+#. [command]
+#: Roboke/scenarios/02_Landing_Party.cfg:302
+#: Roboke/scenarios/25_Fin.cfg:91
+msgid "Death of Canoneér"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:303
+msgid "Destruction of the ship"
+msgstr ""
+
+#. [scenario]: id=02_Landing_Party
+#: Roboke/scenarios/02_Landing_Party.cfg:337
+msgid "$unit.name finds the necklace of healing."
+msgstr ""
+
+#. [scenario]: id=02_Landing_Party
+#: Roboke/scenarios/02_Landing_Party.cfg:338
+msgid "Potion of Health^Take it"
+msgstr ""
+
+#. [scenario]: id=02_Landing_Party
+#: Roboke/scenarios/02_Landing_Party.cfg:339
+msgid "Potion of Health^Leave it"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:349
+msgid "watch out.."
+msgstr ""
+
+#. [unstore_unit]
+#: Roboke/scenarios/02_Landing_Party.cfg:379
+msgid "Wooooha"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:406
+msgid "So you are stronger than me and my mistresses. It is not unheard of."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:407
+msgid "Wait! Let her speak."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:408
+msgid "What a nice voice she has, too."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:409
+msgid "Most of the remaining males on this island enjoy thir captivity too much to train their combat skills. But don't get any hopes: You stand no chance of ever leaving. The folks up north will already know about your presence by now.. And if you're lucky, The Mighty One may not yet consider you worthy her attention."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:415
+msgid "Or apparently she already does... Step back from the rives. Quick."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:453
+msgid "We are cut off from the ship!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:454
+msgid "She does that all the time. Flooding Rivers here and there on the east side. It gets boring really."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:455
+msgid "Who's she?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:456
+msgid "Well nevermind. This only leaves the way to the north. We better move swiftly. Either find a hideout or catch as many as we can by surprise."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:458
+msgid ""
+"Disarm the Mistress. She might be useful to impress her friends up north.\n"
+"..and be sure to get that third dagger that she hides in her boots!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:460
+msgid "Here you can have that one, too.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/02_Landing_Party.cfg:464
+msgid "It's a shame to leave those ship canons behind. But it'll take the gunpowder."
+msgstr ""
+
+#. [scenario]: id=03_Follow_the_Trail
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:4
+msgid "Follow the Trail"
+msgstr ""
+
+#. [side]: type=Rogue, id=Nova
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:52
+msgid "Mistress Nova"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:89
+msgid "Goblins! Here?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:96
+msgid "They're all in shackles. It looks as if they are part of a workforce of some kind."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:97
+msgid "Aaah, Rosie sent the new slaves this way. Good. Good."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:98
+msgid "We are not slaves..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:99
+msgid "..not yet, anyway. But the slavers are on their way already to administer your training."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:100
+msgid "Hurry, we should take that castle before the reinforcements arrive."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:103
+msgid "Occupy the enemy castle, move Roboke to its keep"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:122
+msgid "This castle is very well fortified. It is a nice base."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:123
+msgid "Indeed. I wonder how large this island is."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:124
+msgid "I can help you out there. I have started drawing a map. But first, this castle is such a nice base, because it was made by dwarves."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:125
+msgid "Dwarves? Here?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:126
+msgid "Aye."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:127
+msgid "Well, after seeing goblins and men, well women, there will also likley be other species around that we know from Wesnoth. How big is this island anyway?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:128
+msgid "It is still hard to estimate the total size, but I am certain that we have yet seen less than a quarter of it. Not to mention some various small islands offshore that are hard to make out from here.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/03_Follow_the_Trail.cfg:129
+msgid "I'd also be very surprised if we do not find any caves. We should check the hills where the goblins came from."
+msgstr ""
+
+#. [scenario]: id=04_North_Shore
+#: Roboke/scenarios/04_North_Shore.cfg:11
+msgid "North Beach"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/04_North_Shore.cfg:19
+msgid "While studying Canoneér's map, the party is interrupted by strange watery noises coming from the north."
+msgstr ""
+
+#. [side]: type=Amazon Archer, id=Wanda
+#: Roboke/scenarios/04_North_Shore.cfg:71
+msgid "Mistress Wanda"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:230
+msgid "First Goblins and now this.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:236
+msgid "What? Supervised merpeople at work, diving for pearls. What's wrong with that?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:237
+msgid "All the males are either in cages or diving on a leash and the mermaid leader seem utterly passive, just enjoying being worshipped by her maids."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:238
+msgid "We can try freeing the jailed ones or subdue Miss Wanda first. In any case we should speak to the mermaid leader."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:245
+msgid "Talk to the mermaid leader (move a unit next to her)"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:246
+msgid "Free the imprisoned mermen"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:248
+#: Roboke/scenarios/04_North_Shore.cfg:426
+msgid "Death of Skipper or Canoneér (if recalled)"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:259
+msgid "Look at that.. A merman and an Amazone. We should give them some privacy."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:274
+msgid ""
+"Slaves?! Dressed and armed?!\n"
+"We have not been in here long enough to have missed a revolt, or have we?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:276
+msgid "Sure feels like it. Anyway, I'll see you around A'liza.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:286
+msgid "There is a cave entrance hidden in that village.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:304
+msgid "..and there are Goblins in the cave!"
+msgstr ""
+
+#. [event]
+#. [command]
+#: Roboke/scenarios/04_North_Shore.cfg:305
+#: Roboke/scenarios/06_Amazon_City.cfg:175
+#: Roboke/scenarios/16_Southern_Caves.cfg:344
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:366
+#: Roboke/scenarios/25_Fin.cfg:88
+msgid "You can switch between cave and hill map in the Context-Menu (right click)."
+msgstr ""
+
+#. [scenario]: id=04_North_Shore
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/04_North_Shore.cfg:320
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:427
+msgid "$unit.name finds a silver armor. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=04_North_Shore
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/04_North_Shore.cfg:321
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:428
+msgid "Silver Armour^Take it"
+msgstr ""
+
+#. [scenario]: id=04_North_Shore
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/04_North_Shore.cfg:322
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:429
+msgid "Silver Armour^Leave it"
+msgstr ""
+
+#. [unit]: id=Aloha, type=Merman Triton
+#. [side]: type=Merman Triton, id=Aloha
+#: Roboke/scenarios/04_North_Shore.cfg:339
+#: Roboke/scenarios/05_Moving_West.cfg:35
+msgid "Aloha"
+msgstr ""
+
+#. [unit]: id=Gwala, type=Merman Fighter
+#: Roboke/scenarios/04_North_Shore.cfg:354
+msgid "Gwala"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:375
+msgid "Yay. Free at last."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:376
+msgid "Thank you! Let's talk later, first 'To Arms Mermen!' We have some slavers to get rid of. This is the chance that we have been waiting for."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:418
+#: Roboke/scenarios/08_Pirate_Bay.cfg:280
+msgid "Aye"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:424
+msgid "Defeat Mistress Wanda"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:427
+msgid "Death of Meré or Aloha"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:448
+msgid "All is lost."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:468
+msgid "Uhm, hello..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:469
+msgid "Welcome stranger. Seeing you roam the land as free men, reminds me of olden times."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:470
+msgid "and I think it is now time to do something about that."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:489
+msgid "I am Meré, high-priestess and godess of the merfolk, or rather I was. -- You must be Captain Roboke. We heard your name from the Miss's quite often."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:490
+msgid "Enchanté. Excuse my asking, but this situation is quite stange. A remote island with Mer-people subdued by Elves?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/04_North_Shore.cfg:491
+msgid "No, not elves, part merman, part woman, but it is a long story."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:49
+msgid "Now, where to begin..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:50
+msgid "I'll start with a 'Thank you'."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:51
+msgid "Well, yes. You're quite welcome, but we did not do much, did we?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:52
+msgid "Even small things can lead to dramatic changes."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:53
+msgid "Wise words, our history here is a perfect example for that. Let us walk."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:58
+msgid ""
+"The mermen were on this spot for a long time.\n"
+"  There is 'underwater fire' that warmed the water pleasantly but more importantly the sea created stone out of the fire, it spew out arcs and stone-columns which were then crafted by mermen into a large temples and a surrounding underwater city."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:62
+msgid ""
+"It was the largest underwater village and a holy place to merkind.\n"
+"But the flow of fire-stone was relentless and only within a few generations the lava rose above sea-level.\n"
+"And with the fire, there came the dragons."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:67
+msgid "The dragons continued our work. They shaped the hills, collapsing some of the larger underwater temples into lakes and laid the groundwork for tunnels and caves."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:70
+msgid ""
+"It took only a few more years until thing settled down. One day, with a great rumble the middle of the island blew off in a great fountain of fire.\n"
+"  The legend says that the fire was so hot that it burned the dragons, because after that many of them were gone. The flow of lava stopped and was large crater in the middle of this island where most of the drakes had lived."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:78
+msgid ""
+"The Drakes roamed in the sky and we mermen in the water.\n"
+"  There were still occasional conflicts - mostly on the green eastern-part of the island where drakes occasional hunt and mermen cultivated fish and crabs or just hang out in the south-eastern marshlands.\n"
+"But it was a quiet and peaceful time in general."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:86
+msgid ""
+"Then men came.\n"
+"Maybe 50 of them on two large ships like we've never seen before.\n"
+"They replenished supplies, fixed various parts of their ships but it seemed as if they were not going to stay."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:91
+msgid ""
+"But on the day when they encountered the first drake, my father who was chief of the tribe agreed to make contact as well.\n"
+"  It was maybe our advice to leave quickly and stay away from the hills which made them look further.\n"
+"Either way, shortly thereafter they found shiny gems of breathtaking colours in the eastern hills. There was some commotion amongst the men, and a day after that, half of them left in a hurry by ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:96
+msgid "Over the following weeks, the men who remained behind grew bored and fancied company with us mer-kind, swimming, swapping tales and even some trades."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:98
+msgid "They also took a great liking to our women and started making them presents: Gems that they crafted from the shiny stones in the hills. Ornating their beauty to the point of even worshipping them as goddess. It was the latter. The seemingly small flattery that eventually made all the difference."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:103
+msgid ""
+"The ship came back and it was not one ship, but seven.\n"
+"They carried not only men but also very small men the size of children with long beards. There were also soldiers with long pikes and women to prepare food."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:107
+msgid ""
+"It was a curious sight from afar.\n"
+"The soldiers were able to drive the dragons away with their pikes and the small men dived into the mountains, expanding the old tunnels, mining big jewels, and chunks of gold so huge like we've never seen."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:111
+msgid ""
+"Women started cultivating the fields on the eastern shore and men started building three castles there:\n"
+"  Two in the north-eastern lagoon lakes. The ruins of which you have already seen, and one in the southern swamp which is hard for the drakes to access."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:115
+msgid ""
+"Yet, this southern swamp was also a place frequented by mermaid lovers.\n"
+"  During construction, the southern castle was already dubbed 'the temple of love' and soon thereafter it was no longer designed as castle but became a temple for a very beautiful mermaid named 'Lolita'.\n"
+"Many of the men and even women came to see her and bring her gifts and worship her."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:123
+msgid "The temple also attracted many young mermaids who would like to live some of Lolita's glory, not to mention the gifts and jewels. I can't fault them, the temple was the most beautiful place above ground that I have ever seen."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:126
+msgid ""
+"Since the maids living in the temple were used to receiving gifts from the humans. Some younger mermen started to compete with the men's presents:\n"
+"Diving deep, searching unique shiny pearls in the waters and strands of silver algae. Some even adopted the worshiping and accepted female leadership."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:133
+msgid ""
+"A year passed and the first merhuman were born. It turned out that either combination will only produce a woman, elf-like, but aging faster than normal humans, much like hatching from an egg directly into puberty..\n"
+"  It was around that time when the men killed the first drake. Bolstered by the victory they started building more castles to fortify their position."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:137
+msgid ""
+"Upon seeing these fortifications in the hills, Lolita asked the men to take back the old holy ground from the dragons. Build her a second temple in the lake north of the crater, where the underwater temple was.\n"
+"She even ordered many mermen to assist the humans."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:141
+msgid ""
+"It was us mermen and dwarves that eventually made the difference:\n"
+"Together we build a large system of water-gates: both underground and over-ground."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:145
+msgid ""
+"The Dwarves collapsed large parts of mountains to complete close off the western part of the island and only leave two passes in and out of the mountains.\n"
+"  Many of the men moved to the west which was then inaccessible by the drakes, while the dwarfs expanded the tunnels in the east, connecting them with the dragon caves and flooded large parts of them with water from two sides, locking many of the drakes in their caves."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:152
+msgid "With other ships there came small ugly creatures, small like the dwarves but they were not proud miners but the aggressive dirty kind. The men whipped them, tied them up in chains. They were forced to work in the mines and offered up as dragon fodder if necessary."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:155
+msgid ""
+"While the mining saw a big boost, construction of Lolita's temple went all but smooth.\n"
+"  The remaining drakes were still strong and not only held their position on the crater-island but also attacked the endeavour to build the temple north of it. They killed many of the dwarves and mermen who were the main workforce in tunnels and water-castles in the mountains."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:162
+msgid ""
+"Lolita's temples was never completed.\n"
+"In the heat of the battles with the drakes, many of the mine-shafts were strategically collapsed and fewer jewels came out of the mountain."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:166
+msgid ""
+"It was the dwarves who first recognized the value of the pearls and jewels that mermen bragged about to have brought back from the deep water.\n"
+"  At first it was Lolita who sent mermen to search for underwater jewels in order to spur-on the dwarves to complete here temple and to compensate them for the collapsed mines.\n"
+"  Soon it became a sport to become a merman diver, then an obligation, and not long thereafter after slavery."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:171
+msgid ""
+"Men started to enclose the north-shore area where most of the pearls were found and built camps for mer-men divers, shipping off many of the harvested the pearls.\n"
+"The whips and shackles that were in regular use for the goblin-miners were soon commonly used to convince and coerce mermen as well.\n"
+"Yet Lolita turned a blind eye on these proceedings."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:176
+msgid ""
+"The dwarves were greedy, it turned out that the temple was only a side-project of theirs.\n"
+"  They built a complex systems of tunnels, caves and water-gates, with levers to flood certain part and deathly traps for everyone who came close.\n"
+"\n"
+"We don't know if it was a mistake or intention, but they left an open cave entrance connection to the east.\n"
+"  One day a hoard of drakes emerged there and destroyed much of the eastern shore, killing Lolita on their way and releasing the mine goblins on their way, who also turned against their former masters."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:183
+msgid ""
+"It was a nasty massacre that not only destroyed the beauty of Lolita's temple but many living beings on this island.\n"
+"\n"
+"But the humans prevailed. Some of them at least."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:190
+msgid ""
+"While many thought Lolita's death would bring an end to the matriarchy amongst mer-kind, it turned out to be the opposite.\n"
+"  Mermaids fighting for dominance, enslaving their own kind sometimes with the assistance of humans, building cages and nets.\n"
+"\n"
+"Many warriors were killed in fight and some others men left, returning only to transfer goods.\n"
+"  The human survivors were mostly female who rather make mermen dive than mine."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:197
+msgid ""
+"With the next ship, there arrived two very strange people.\n"
+"  A robed man with a long staff, and a pointy-eared woman who emitted a slight glow. She seemed to levitate, never touch the ground and always slightly float above it. No one ever saw her fly but she had something special about her.\n"
+"\n"
+"Soon after their arrival, the dwarves vanished and the drake attacks suddenly stopped."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:208
+msgid "Meanwhile most of the remaining mermen were imprisoned in the northern enclave, not allowed to leave and guarded by vicious mermaids when diving for pearls."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:211
+msgid ""
+"With the dwarves and most of the fighters gone, a change happened to the human society, as well.\n"
+"  The few rich traders who lived on the western shore soon succumbed to decadency which helped to foster female dominance.\n"
+"  Right here actually, in the castle that we're heading for.\n"
+"\n"
+"It has been empty ever since the last men left the main island."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:223
+msgid ""
+"Women and mermaids became dominant.\n"
+"  The mining mostly subsided and the trading is predominantly pearls and silver algae. I believe some of the goblins do still mine in the north-eastern caves, though."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:227
+msgid ""
+"The eastern side of this island is wet and farmland, with some occasional saurians living in old swamps that were Lolita's temple.\n"
+"\n"
+"The Mermaids live on the norther shore which, as you have seen, was fortified around the pearl-lakes.\n"
+"\n"
+"And the west here is, where She lives..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/05_Moving_West.cfg:234
+msgid ""
+"Go on now. I won't enter that castle myself.\n"
+"\n"
+"We'll see each other soon, I expect."
+msgstr ""
+
+#. [message]: speaker=Roboke
+#: Roboke/scenarios/05_Moving_West.cfg:245
+msgid "Voila. I thought he never stops talking."
+msgstr ""
+
+#. [scenario]: id=06_Amazon_City
+#: Roboke/scenarios/06_Amazon_City.cfg:10
+msgid "Amazon City"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:140
+msgid "Aha. So this is be the intruder."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:144
+msgid ""
+"They're not intruding. I have listened to the merman's tale and what he says is right.\n"
+"It's us who intruded here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:146
+msgid ""
+"Ah, child. But you forget that you were born here.\n"
+"Do you truly believe that us Mistresses could live in their world?\n"
+"It is this island that is ours."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:152
+msgid "I would not say no to a mer-mistess, neither here nor on Wesnoth."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:153
+msgid "Don't be so easily fooled by her looks. She sacrifices mermen and men, too. Once every moon, when she bleeds."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:154
+msgid "Really?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:155
+msgid ""
+"Yes, it's for keeping the dragon at bay - or that's what she says, anyway.\n"
+"\n"
+"It is wrong and it must stop."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:158
+msgid "Yes, I think exactly the same. Let's put an end to this."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:159
+msgid "Guys..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:160
+msgid ""
+"She's right. Let's put an end to this.\n"
+"Kill those men, and that traitor, too"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:165
+msgid "Are you really going to fight like this?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:166
+msgid "Sure, the distraction will make up for the missing armor. Besides I've inherited the tough mermish skin from my dad."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:169
+msgid "I'd like to assert that there are caves underneath that mountain."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:180
+msgid "Defeat the Queen"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:182
+msgid "Death of any hero (Skipper, Rosie, Monsieur Canoneér)"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:196
+msgid "Wow. This is quite a cave. It looks like the whole hill is undermined."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:198
+msgid "These are dwarven caves. I doubt the amazon can find nor enter them."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:208
+msgid "The Amazon do not seem to be aware of the caves."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:223
+msgid "Ha!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:224
+msgid "Don't kill me. I am much more valuable to you alive."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:225
+msgid "How so?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:226
+msgid "I have knowledge. Besides, the tale about the dragon is true. I am one the remaining priestesses who knows the secret and can keep her at bay."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/06_Amazon_City.cfg:227
+msgid "Her? A dragon lady? This story only gets better."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:22
+msgid ""
+"I was raised by the last of the human priestess, back in Lolita's temple.\n"
+"Five years ago now, when the ship with the Elvish Sylph and the Great Mage arrived I overheard them in secret."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:27
+msgid "They came here to study the fire-dragon who lives in the crater and leads the drakes."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:31
+msgid ""
+"But a few weeks later, the sylph came back alone.\n"
+"\n"
+"I learned that they put some kind of spell on the dragon to subdue him, but that this spell also cost the life of the mage.\n"
+"A huge castle was to be built for the dragon in the crater, because the volcanic energy there is beneficial to maintain the spell and also that sacrifices have to be made."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:38
+msgid ""
+"Only a years later, when my teacher was nearing death, I learned the whole secret, on a lonely mountain top.\n"
+"\n"
+"The elf somehow became the dragon, but with the fire gone, the life of the dragon was draining. Every month and spell had to be renewed.\n"
+"The deceased mage's apprentice found a way: A potion of some kind, which requires the body of a male burned by the dragon's fire mixed with the blood of a bleeding female."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:45
+msgid ""
+"It was also up there in the mountains where the apprentice had asked her for help.\n"
+"\n"
+"Those mermen who vanished when building the crater-keep were actually sacrificed, as were some men. But soon the secret fire-rituals could no longer be kept quiet.\n"
+"\n"
+"So the Amazon Order was created.\n"
+"It was easy to build on Lolita stories and use mermish folklore of this sacred island to organize the rituals..."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:55
+msgid ""
+"And every moon since then, there has been a stunning ritual.\n"
+"\n"
+"Ensuring the safety of this island with a holy sacrifice."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:62
+msgid ""
+"It was only the dwarves who were not deceived. Many fled though underground tunnels, some of them took ships but it is rumored that others went to live in mines and hide-outs in the southern cliffs.\n"
+"\n"
+"The Dragon or the Elvish' Sylph - whatever she is - also controls the old dwarvish water-gates.\n"
+"With the mountains all around the crater she makes it impossible for anyone who cannot fly or dive for days at a time to reach her in the keep in the volcano."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/07_Queens_Tale.cfg:70
+msgid ""
+"Many men also left the island, but some do keep up the jewel and pearl trade by ship.\n"
+"Those who do, live on an island south-west and - as they say - fancy the natural pirate hippie style, whatever they mean by that.\n"
+"\n"
+"So if you want to get a ship, you'll have to..."
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#: Roboke/scenarios/08_Pirate_Bay.cfg:8
+msgid "Pirate Bay"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:21
+msgid "...go south and visit the Pirate Bay."
+msgstr ""
+
+#. [side]: id=VanRijlen, type=Master at Arms
+#: Roboke/scenarios/08_Pirate_Bay.cfg:113
+msgid "Letje"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:170
+msgid "Capt'n Iglo"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:256
+msgid "So this is the fabled Pirate Bay. I imagined it quite differently. "
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:257
+msgid ""
+"Watcher, we have visitors.\n"
+"  Look at her, it's usually us who come up north for you.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:259
+msgid ""
+"Aye, yet we're not here for pleasure.\n"
+"  We'd like to borrow a boat, or ship more like."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:261
+msgid "Harrrrrrr, a ship you say? Hahaha."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:262
+msgid "Rosie..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:263
+msgid ""
+"I am Captain Roboke from Elensefar.\n"
+"  I don't know what you think about these mermaid and dragon stories nor how much you want to get involved in all this, but I need your help to repair my ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:265
+msgid ""
+"Also one of yours would do this lady and her queen not bad, either.\n"
+"I am sure we can find a way to accommodate you for your expenses."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:267
+msgid "Bwahahaha, expenses! Hahaha."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:268
+msgid "We have everything we need. I suggest you rather enjoy the captivity of the Mistresses, Admiral."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:269
+msgid "How the hell does he know about this Admiral business..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:270
+msgid "Yes, we know all about that, you trailing our ship and that dwarf ordered to maroon us here with his canons until the fleet comes."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:271
+msgid "Canoneér was to maroon you here? So that were the special instructions. Royal command."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:272
+msgid "Repair your ship? -- You're not leaving us on our own here, aren't you?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:273
+msgid "Uhm. No, but I'm rather tired of talking. See those galleons?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:281
+msgid "We need to capture at least two of them."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:282
+msgid "We have temporarily driven out the queen and here staff and set up camp here to assist you."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:284
+msgid "You can recruit Amazon Archers in this scenario (they won't stay with you)."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:287
+msgid "Capture two (of the 5) Galleons by moving a bipedal person (no mermen) of at least level two on it"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:288
+msgid "Defeat the pirate leaders"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:290
+msgid "You can also capture the small boats, they will enter the battle on your side."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:302
+#: Roboke/scenarios/16_Southern_Caves.cfg:196
+msgid "There is a hidden tunnel entrance here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:326
+msgid "Harrr, fifteen men on the dead man's chest. Yo-ho-ho."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:334
+msgid "...Yo-ho-ho, and a bottle of rum!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:335
+msgid "Yo-ho-ho. There is a bottle of rum and 200 gold pieces here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:385
+msgid "..and off she goes."
+msgstr ""
+
+#. [then]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:412
+msgid "I am sailing..."
+msgstr ""
+
+#. [then]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:419
+msgid "..and I name this galleon 'Vanessa'."
+msgstr ""
+
+#. [then]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:420
+msgid "Holy cow! This ship is crawling with rats."
+msgstr ""
+
+#. [then]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:422
+msgid "This galleon shall henceforth be known as 'Clara'."
+msgstr ""
+
+#. [then]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:434
+msgid "Aargh. What a shame! Two ships were stolen from right from under our nose! What pirates we are..."
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:440
+msgid "I am not experienced enough to capture, not to mention sail a galleon."
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=10_Southern_Cliffs
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/08_Pirate_Bay.cfg:468
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:569
+#: Roboke/scenarios/13_Prison_Camp.cfg:270
+msgid "Should $unit.name pick up the trident?"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=10_Southern_Cliffs
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/08_Pirate_Bay.cfg:469
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:570
+#: Roboke/scenarios/13_Prison_Camp.cfg:271
+msgid "Storm Trident^Take it"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=10_Southern_Cliffs
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/08_Pirate_Bay.cfg:470
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:571
+#: Roboke/scenarios/13_Prison_Camp.cfg:272
+msgid "Storm Trident^Leave it"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=10_Southern_Cliffs
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/08_Pirate_Bay.cfg:471
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:572
+#: Roboke/scenarios/13_Prison_Camp.cfg:273
+msgid "Only the mermen can use this item!"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#: Roboke/scenarios/08_Pirate_Bay.cfg:476
+#: Roboke/scenarios/08_Pirate_Bay.cfg:494
+msgid "$unit.name finds an old chest."
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/08_Pirate_Bay.cfg:477
+#: Roboke/scenarios/08_Pirate_Bay.cfg:495
+#: Roboke/scenarios/16_Southern_Caves.cfg:535
+msgid "Old Chest^Open it"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/08_Pirate_Bay.cfg:478
+#: Roboke/scenarios/08_Pirate_Bay.cfg:496
+#: Roboke/scenarios/16_Southern_Caves.cfg:536
+msgid "Old Chest^Leave it"
+msgstr ""
+
+#. [scenario]: id=08_Pirate_Bay
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/08_Pirate_Bay.cfg:479
+#: Roboke/scenarios/08_Pirate_Bay.cfg:497
+#: Roboke/scenarios/16_Southern_Caves.cfg:537
+msgid "$unit.name cannot open this chest."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/08_Pirate_Bay.cfg:484
+msgid "There are jewels in the the chest (150 gold)."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/08_Pirate_Bay.cfg:502
+msgid "There are 120 gold coins in the chest."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:548
+msgid "I know that voice. Is that you, van Rijlen?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:550
+msgid "van Dijk?! Skipper van Dijk! You here?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:551
+msgid "Hey ho, old laddy. I'd rather have expected Captain Wooza or his first mate to run this show here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:552
+msgid "Ha indeed, he'd have made a better pirate, but he sunk with his ship like any good captain would. Speaking of ships, what was that about, again? Didn't Sir Admiral mention something about expenses earlier?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:553
+msgid "All in good time. First, it would be nice if you could fill us in about what happened to the expedition and what you think of these dragon stories and the rituals that this self-crowned queen organizes?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:554
+msgid ""
+"Aah I don't want to know anything about all those crazy things nor the old expedition times.\n"
+"It's live and let live for us here, now.\n"
+"Most of the time anyway."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:557
+msgid "But the Dragon's true. A fiery beast. You can see her fly 'cross the mountains from here occasionally."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:558
+msgid "And the dwarves? Are there any of my kin still living on the cliffs or in the caves?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:559
+msgid "Haven't seen one in a long time. But we found remains of a few along with a map of some kind in one of the houses that the dwarves have built on the small islands west from here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:560
+msgid "Still, we mostly keep away. There are wild sea-beasts roaming the southern archipelago and even if you make it through, there are still traps set up by the dwarves to keep intruders out."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:561
+msgid "And what about the map?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:562
+msgid "It is only a fragment and it's all annotated in runes. We cannot read it."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/08_Pirate_Bay.cfg:563
+msgid "But I know someone who might be able to decipher it, don't you?"
+msgstr ""
+
+#. [scenario]: id=09_Off_Shore
+#: Roboke/scenarios/09_Off_Shore.cfg:4
+msgid "Off Shore"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/09_Off_Shore.cfg:11
+msgid "Meanwhile aboard the captured ship.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/09_Off_Shore.cfg:225
+msgid "Death of the Captain"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:12
+msgid "Southern Cliffs"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:25
+msgid "Did anyone recently mention old maps with runes?"
+msgstr ""
+
+#. [side]: type=Peasant, id=TempMan
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:41
+#: Roboke/utils/characters.cfg:23
+msgid "Skipper van Dijk"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:236
+msgid "Except,.. there is a secet tunnel entrance here"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:314
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:327
+msgid "Curious."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:315
+msgid "Very curious, this map. Even though it is actually only one part of four."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:317
+msgid "While he's busy wondering. Did the Queen actually mention the prison camp up north?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:318
+msgid "Prison Camp? - No, not that I recall."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:319
+msgid "I only just remembered. She keeps a mage locked up there in a tower, guarded by a huge beast. Like a larger version of those goblins in the mines."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:320
+msgid "An Ork? or maybe an Ogre... surely no-one in their right mind would have led a security-troll on board of a ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:321
+msgid ""
+"I would not know about the creature.\n"
+"  But all that talk about sorcery and magic potions made me think that there is more to it."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:323
+msgid ""
+"You're right.\n"
+"  I also think that we should pay this island or rather the mage there a visit, don't you?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:325
+msgid "Exactly. ..and I'm also really starting to like you, too."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:326
+msgid "Sir Admiral."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:328
+msgid "There are probably more mines under this small island than in half of Knalga."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:329
+msgid "Not to mention an elaborate system of water-gates, levers and secret entrances. Ingenious."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:330
+msgid "At least the queen did not lie about those, then. Where are they? Can we use them somehow?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:331
+msgid "I will need the other three parts of the map. The locations are coded. It is a very common strategy."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:332
+msgid "With your permissions, Sir, I'd like to search the old dwarven villages in the southern cliffs for the missing maps."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:333
+msgid ""
+"You'd like to what? Wait.. what did you just say?\n"
+"You want to go sailing the southern cliffs? Voluntarily?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:335
+msgid "What seafareres would we be if we stood between a dwarf and his ship, on his way to face wild sea-beasts?!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:336
+msgid ""
+"It's settled then.\n"
+"  I will take this galleon with Rosie up north and you, Skipper, remain in command of the fleet here and see that no harm comes to Monsieur Canoneér aboard it."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:338
+msgid "Aye, Aye."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:339
+msgid "If you'll be going north-east to the prison-island, you're actually not far from where we've landed. Why don't you bring along the big canons from our galleon on the way back?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:340
+msgid "Sure, why not. I'm still hoping to repair the ship though, but I'll see what I can do."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:351
+msgid ""
+"Cursed waters and a dwarf on board?!\n"
+"Let's get on with this before I change my mind."
+msgstr ""
+
+#. [message]: id=boatone
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:360
+#: Roboke/scenarios/16_Southern_Caves.cfg:393
+msgid "I'm on board.. but will stay below deck until we anchor at a village where I can disembark."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:363
+msgid "Move the galleon <b>next to</b> a vacant village for the Dwarf to leave the boat."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:364
+msgid ""
+"And vice versa, move the dwarf next to the ship for an option to embark, again.\n"
+"There are also additional context-menu options when em/disembarking is possible."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:366
+msgid "Monsieur Canoneér automatically searches any town that he moves on to for maps."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:369
+msgid "Search the villages (three map parts remaining to be found)"
+msgstr ""
+
+#. [event]
+#. [case]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:370
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:452
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:462
+msgid "Death of Skipper or Canoneér"
+msgstr ""
+
+#. [event]
+#. [case]
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:372
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:454
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:464
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:484
+msgid "the gold will be carried over to other Skipper &amp; Canoneér scenarios"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:376
+msgid "Protect the fleet"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:377
+msgid "Death of Meré"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:379
+msgid "You will be able to recall Meré's units in later scenarios"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:393
+msgid "A barrel of Tattooed Seaman's finest rum. It will double the ship's movement and everyone aboard for this scenario."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:401
+msgid "A floating barrel of Tattooed Seaman's finest rum is not use to me."
+msgstr ""
+
+#. [case]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:449
+msgid "There is a part of a map here. Interesting... Those are clearly ancient dwarven runes.. There are only two more pieces missing, now."
+msgstr ""
+
+#. [case]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:451
+msgid "Search the villages (two map parts remaining)"
+msgstr ""
+
+#. [case]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:459
+msgid "Hurrah, here is the 3rd part. This one has details about all the watergates. Some of them are actually accessible from the south-side, probably not too far from here, but we will need the complete map to pinpoint the locations. One piece to go."
+msgstr ""
+
+#. [case]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:461
+msgid "Search the villages (one map part remaining)"
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:468
+msgid "The final part was hidden here!"
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:469
+msgid "Well now, Let's see. This part is on top, that goes to the righti... and what's this scribbled on the backside of this one?"
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:470
+msgid "Mmh. That's an 'A'; and that one... It's a code. and the cipher to decode it could be found where?"
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:472
+msgid "MMh. What if I overlay this with the map that I have made earlier.."
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:476
+msgid "We'll need to visit the castle in the east."
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:481
+msgid "Reach the Castle in the east with the dwarf (by ship)."
+msgstr ""
+
+#. [else]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:482
+msgid "Death of Skipper, Canoneér or Meré"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:497
+msgid "All right. I'll have a look around..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:506
+msgid "Nothing here that I can find."
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:561
+msgid "$unit.name finds a special egg in the nest. Should he eat it?"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:562
+msgid "Egg of Health^Take it"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:563
+msgid "Egg of Health^Better leave it"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:578
+#: Roboke/scenarios/16_Southern_Caves.cfg:263
+msgid "$unit.name finds a mystic magic hammer. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:579
+#: Roboke/scenarios/16_Southern_Caves.cfg:264
+msgid "Hammer of Destruction^Take it"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:580
+#: Roboke/scenarios/16_Southern_Caves.cfg:265
+msgid "Hammer of Destruction^Better leave it"
+msgstr ""
+
+#. [scenario]: id=10_Southern_Cliffs
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:581
+#: Roboke/scenarios/16_Southern_Caves.cfg:266
+msgid "Only a Dwarf can wield this item"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:667
+msgid "We reached it. Finally. Now let's see. Somewhere around here there must be..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:669
+msgid "Aahh yes, here it is."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/10_Southern_Cliffs.cfg:670
+msgid "Madame Meré leaves her units with Mr Canoneér in the castle."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:21
+msgid "These drawings detail the cave layout around the crater. In particular the design and the function of water-gates in the southern part."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:25
+msgid ""
+"The main purpose of the construction was flood the main halls and tunnels in the dragon's lair.\n"
+"There is a water inlet in the south-west, draining from a barrier lake and a water-gate here in the south-east.\n"
+"\n"
+"Wait, let me show you on my map."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:33
+msgid ""
+"So far so good. We're actually here in the south-eastern stronghold.\n"
+"\n"
+"Further east from here, across the mountains in the swamp, are the ruins of Lolita's old temple.\n"
+"Not far from where we landed on this island.\n"
+"\n"
+"Now, let me add a few things to this map.."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:43
+msgid ""
+"I've highlighted the important parts. Note the ex-mermen enclave (blue) in the north and the mines south-east of it (dark gray).\n"
+"\n"
+"I don't know if the larger southern mines are still in operation. I was hoping there would be another entrance to those mines from this castle, but there is none marked on the map."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:50
+msgid ""
+"And at last, the real secrets.\n"
+"\n"
+"See how the water-gate dams the river which separates east and west.\n"
+"  It is not only land that it separates! There is a tunnel there, large enough for ships to pass though, once the gate is open. The water-gate can be operated via some lever mechanism in a cove just west of it."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:58
+msgid ""
+"Once opened, it will also drain most of the water from the flooded caves west of the gate.\n"
+"  However, it is unclear how much of these caves are actually flooded. I expect it is only really the southern part, because the inlet for the water is the south-west. At least the lever to operate it is. It needs  to be closed in order to truly make the caves accessible.\n"
+"  Likely, this will also reverse the effects of most other water-gates which can be operated from the inside, such as the flooding of the eastern farmlands where our ship is stuck."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:64
+msgid ""
+"There is some more information on the map that regarding secret passageways, but I have not yet deciphered those.\n"
+"Nor can I make any sense of this message that was hastily scribbled on the back of that last map-piece that we've found. Parts of it translate to 'drowned' and maybe 'bones'."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:71
+msgid ""
+"But back to more pressing matters.\n"
+"  While Monsieur Canoneér studies the maps in the castle south east, Admiral Roboke and Rosie are on the way to visit the imprisoned mage. The question remains which route to take there.."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:76
+msgid "Stay close to the shoreline and cope with whatever lures on that island en-route north-west...?"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:92
+msgid "Or better take a wider tour around, offshore in north-western sea."
+msgstr ""
+
+#. [message]: id=Roboke
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:137
+msgid "What route should we take?"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:139
+msgid "North by North West: a good fight close to the shores."
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:145
+msgid "Off Shore, into the mystic."
+msgstr ""
+
+#. [command]
+#: Roboke/scenarios/11_Dwarven_Maps.cfg:148
+msgid "Madame Meré insists that you take some of her merfolk along as escort. You can now recruit merpeople."
+msgstr ""
+
+#. [scenario]: id=12a_Perils_North_West
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/12a_Perils_North_West.cfg:7
+#: Roboke/scenarios/13_Prison_Camp.cfg:8
+msgid "Prison Camp"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:19
+msgid "Roboke and Rosie left the pirate camp around midday, just when the sun started coming over the mountains."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:124
+msgid "There's a treasure hidden in the sand here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:149
+msgid "This land looks quite a bit wilder than last time we've been here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:150
+msgid "Yeah, but I kinda like it better this way."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:151
+msgid "There's a few simple rules to this: stay away from the deep water and underbrush. The serpents will not attack you from shallow water."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:152
+msgid "As for the spiders and scorpions, they usually only attack sand."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:153
+msgid "Yeah, except, do you see how we can heed that advice with the boat, too?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:158
+msgid "Miss Meré left some of her mermen here in the castle."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:159
+msgid "You can now recruit merfolk."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:162
+msgid "Move the Galleon to the north-east of the map"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12a_Perils_North_West.cfg:219
+msgid "Mermaids! We're safe now."
+msgstr ""
+
+#. [scenario]: id=12b_Water_Colors
+#: Roboke/scenarios/12b_Water_Colors.cfg:8
+msgid "Water Colors"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/12b_Water_Colors.cfg:16
+msgid "Roboke and Rosie left the pirate camp around midday, just when the sun passed over the mountains."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/12b_Water_Colors.cfg:20
+msgid "Even offshore, the volcano is is easily visible and navigating the calm sea made our two heroes forget about the dramatic events of the past weeks for a short evening and a long night."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/12b_Water_Colors.cfg:23
+msgid "Until next morning..."
+msgstr ""
+
+#. [side]: type=Transport Galleon, id=Robstar
+#: Roboke/scenarios/12b_Water_Colors.cfg:34
+msgid "Roboke and Rosie"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:55
+msgid "Where are we? I cannot see the island anywhere?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:56
+msgid "These are strage waters. Nothing like I've ever seen before."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:57
+msgid "The holy place of the mermen maybe? Or some trap of the Dwarves?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:60
+msgid "No. I don't believe either of them could create something like this"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:61
+msgid "Well, you wanted some mystery, didn't you? So let's see if we can solve this riddle."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:62
+msgid ""
+"Now you're talking.\n"
+"You're the first man aboard a ship of mine who actually enjoys those adventures like I do."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:64
+msgid "Uhm first women..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:65
+msgid "..aboard any of my ships, actually."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:66
+msgid "You see it's not usually.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:68
+msgid "[sniggers]"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:71
+msgid "Find a way out of the storm back to the island"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:81
+msgid "We're leaving a trail! Swapping the water-colors with every move, see?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:82
+msgid "Right; (mutters: as if I had not noticed that before, what does she think I am doing here)."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:85
+msgid "Did you notice how the top and bottom borders always stay the same kind of water?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:86
+msgid "Indeed, the one near the bottom is shallow tropic water - so maybe that's south, the water up north is called 'deep gray'. Opposed to just 'deep' water, deep-gray changes the color depending on the time of day."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:89
+msgid "Do you think we need to sort this tropic water towards the south and this murky stuff towards the northern end?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:90
+msgid "Surely when the water is all sorted correctly we can navigate properly again."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/12b_Water_Colors.cfg:217
+msgid "Look, I can see the vulcano again. We made it!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:165
+msgid "Kill all the prison guards"
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/13_Prison_Camp.cfg:278
+msgid "$unit.name finds the staff of speed."
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/13_Prison_Camp.cfg:279
+msgid "Staff of Speed^Take it"
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/13_Prison_Camp.cfg:280
+msgid "Staff of Speed^Leave it"
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#. [scenario]: id=16_Southern_Caves
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/13_Prison_Camp.cfg:281
+#: Roboke/scenarios/13_Prison_Camp.cfg:289
+#: Roboke/scenarios/16_Southern_Caves.cfg:521
+#: Roboke/scenarios/16_Southern_Caves.cfg:529
+#: Roboke/scenarios/16_Southern_Caves.cfg:576
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:422
+msgid "$unit.name cannot use this item."
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#: Roboke/scenarios/13_Prison_Camp.cfg:286
+msgid "$unit.name finds a flame-sword."
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/13_Prison_Camp.cfg:287
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:420
+msgid "Flame Sword^Take it"
+msgstr ""
+
+#. [scenario]: id=13_Prison_Camp
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/13_Prison_Camp.cfg:288
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:421
+msgid "Flame Sword^Leave it"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:319
+msgid "Thank you, strangers. This was quite a feat!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:320
+msgid "You actually have to thank Rosie her, it was she who had the idea to come here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:321
+msgid "And quite a fierce fighter she is, too. I would not want to be on her receiving side."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:322
+msgid "Well, we were hoping that you would know a spell or two to aid us against the dragon."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:323
+msgid "She's serious, isn't she?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/13_Prison_Camp.cfg:324
+msgid "Child, I have been in this tower for the last three years. You better fill me in on what's going on here."
+msgstr ""
+
+#. [scenario]: id=14_East_Again
+#: Roboke/scenarios/14_East_again.cfg:7
+msgid "East Again"
+msgstr ""
+
+#. [side]: id=Lina, type=Rogue
+#: Roboke/scenarios/14_East_again.cfg:57
+msgid "Mistress Lina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:133
+msgid "Tina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:134
+msgid "Gina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:135
+msgid "Nina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:136
+msgid "Dina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:137
+msgid "Mina"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:252
+msgid "Finally, back to where we've started. But look at the ship..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:255
+msgid "Look! They replaced me :) Guards in the north. The queen must be keeping up the mining operation."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:256
+msgid "You shall not pass north of the river."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:257
+msgid "Hihi. She even looks a bit like me. She's must also be one of the merman who was carried by a woman."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:262
+msgid "There they are.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:263
+msgid "Isn't that the chap that we've just killed? And his ogre-friend, the prison-ward?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:264
+msgid "No one escapes my prison.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:265
+msgid "Uhm. That might be my doing.. I wished them to suffer eternally while they kept me in that tower."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:266
+msgid "But I can remedy that. It's actually because of the undead that I was imprisoned."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:267
+msgid "You can now recruit mages"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:268
+#: Roboke/scenarios/16_Southern_Caves.cfg:363
+msgid "Undead?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:269
+msgid "When the dwarves flooded the caves, they not only drowned some drakes. Some of the drowned came back."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:270
+msgid "I was with the last Dwarves. Helping them to defeat the abominations that they have created, when She saw me."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:271
+msgid "Yet there were more than just water bodies. I do believe that the souls of all those who are sacrificed to the dragon do also roam the caves as undead and releasing these earthbound souls would weaken the spell on the dragon."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:272
+msgid "So, that's why she wanted you locked away. Mmh, that's three years, times twelve moons, makes 36 sacrificed souls."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:273
+msgid "Four years, I think. 48."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:274
+msgid "I do not wish to frighten you but I'd say it's a safe bet that the actual number is much larger."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:275
+msgid "So why did we come here, again? Ship canons against undead?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:276
+msgid "Don't be so easily deceived by the arcane. Impact weapons such as cannonballs can be very effective against skeletons and liches."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:277
+msgid "As for Ghosts, like our friend up north here, there's holy water."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:284
+msgid "Salvage the wreck (move Galleon onto it)"
+msgstr ""
+
+#. [event]
+#. [case]
+#: Roboke/scenarios/14_East_again.cfg:285
+#: Roboke/scenarios/14_East_again.cfg:341
+msgid "Alternatively, kill all the Saurians units and the two undead chasing you"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:300
+msgid "Salvage operation started .. takes 3 uninterrupted (!) consequitive turns."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/14_East_again.cfg:301
+msgid "Salvage operation re-started .. 3 turns"
+msgstr ""
+
+#. [case]
+#: Roboke/scenarios/14_East_again.cfg:340
+msgid "Move the galleon up the main stream to the east (left) side of the map"
+msgstr ""
+
+#. [scenario]: id=14_East_Again
+#: Roboke/scenarios/14_East_again.cfg:385
+msgid "$unit.name finds the ring of speed."
+msgstr ""
+
+#. [scenario]: id=14_East_Again
+#. [scenario]: id=25_Fin
+#: Roboke/scenarios/14_East_again.cfg:386
+#: Roboke/scenarios/25_Fin.cfg:157
+msgid "Ring of Speed^Take it"
+msgstr ""
+
+#. [scenario]: id=14_East_Again
+#. [scenario]: id=25_Fin
+#: Roboke/scenarios/14_East_again.cfg:387
+#: Roboke/scenarios/25_Fin.cfg:158
+msgid "Ring of Speed^Better leave it"
+msgstr ""
+
+#. [scenario]: id=15_The_Eastern_Caves
+#: Roboke/scenarios/15_Eastern_Caves.cfg:4
+msgid "The Eastern Caves"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:135
+msgid "Sleeper"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:156
+msgid "According to Monsieur Canoneér's map, there must be a cave entrance somewhere here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:160
+msgid "It's actually just south of here on the path. But what are we doing here, exactly?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:161
+msgid ""
+"Cleaning the south-eastern mines.\n"
+"If we are to attack the crater, we cannot allow anyone to fall into our back at the same time."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:164
+msgid "Good thinking."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:165
+msgid "Somehow I knew I could not keep you out of this, even though I wished I could. It will be dangerous in there."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:168
+#: Roboke/scenarios/19_Reunion.cfg:267
+msgid "Kill all enemy leaders"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:183
+msgid "These walls have strands of the yellowish powder that the Dwarf uses to mix the food for his Thunderstick."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:184
+msgid "Collect some. Let's make a small surprise present for him, shall we?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:204
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:243
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:263
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:297
+msgid "Wow! What a view."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:239
+#: Roboke/scenarios/15_Eastern_Caves.cfg:253
+msgid "Juuuhuu!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:252
+msgid "What the hell was that? No more creepy sea-monsters, I hope."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:254
+msgid "It isn't."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:255
+msgid "No, it can't be."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:256
+msgid "But how could he have found it?!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/15_Eastern_Caves.cfg:257
+msgid "Skipper! Please ready a boat for the Captain."
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:10
+msgid "Southern Caves"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/16_Southern_Caves.cfg:28
+msgid ""
+"Let's have a look at the map again.\n"
+"\n"
+"Using the caves would allow us to attack the crater from two sides, by ship and water from the north and by foot from the caves in the south.\n"
+"  But we'd first have to to drain the water from the caves to gain access.\n"
+"\n"
+"So we'll need to close the water-inlet in the west and then drain the caves by opening the gate using the eastern lever."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/16_Southern_Caves.cfg:36
+msgid "Where were these levers again, exactly?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:332
+msgid "I've deciphered the remaining information. There are various tunnels and caves, like the one where you just came from."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:341
+msgid "So you see... the old game of moving between two altitudes."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:346
+msgid "And I have pinpointed the exact location of the hidden gateway in the river."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:355
+msgid "which brings us back too the water-gates."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:356
+msgid ""
+"One is in a ocean cove not far north-west from here.\n"
+"\n"
+"The other one is on land, in the north-western corner, somewhere north of the bay there."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:362
+msgid "But mechanics are all fine. There is something else that troubles me."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:364
+msgid "How could you possibly know the content of the secret message scribbled on the back?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:365
+msgid ""
+"It's a long story. But before I forget.\n"
+"\n"
+"We have found some of that yellow powder that you use for your Thunderstick and we also brought the supplies from our old ship."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:368
+msgid ""
+"That's excellent! Now let's see.\n"
+"\n"
+"My previous experience aboard those galleons will come in handy for this."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:377
+msgid ""
+"Wow. Those are quite some improvements.\n"
+"So. Here we are again. Southern Shores, a ship and a heroic dwarf.\n"
+"I reckon you know by now how to navigate these waters."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:380
+msgid ""
+"Cursed Waters, a dwarf aboard, mermaid escorts?!\n"
+"Absurd as it is but it does sounds awfully familiar.\n"
+"\n"
+"Seeing as this is old dwarven territory, I expect a few hidden treasures, too. Let's go."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:384
+msgid ""
+"You truly must be from the royal special task force commando.\n"
+"\n"
+"I am beginning to wonder how to explain all this to Governor Gray, should we ever make it back to Elensefar."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:399
+msgid "Here take this 'outboard potion'. It will double your and the ship's movement for this scenario."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:404
+msgid "Madame Meré left her units with in the castle. You can recall them."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:407
+msgid "Search the hidden water-levers"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:422
+msgid ""
+"There is a slight drag as if water is draining from here.\n"
+"  This is probably the water inlet into the caves."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/16_Southern_Caves.cfg:451
+msgid ""
+"There is a cave here,\n"
+"and a water lever within."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:455
+msgid "Now, this should prevent more water from flooding the caves.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:457
+msgid "And another crank... I hope this was a good idea."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:472
+msgid "Opening this gate will allow the water to drain from the caverns."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:486
+msgid "That's that. The water is now draining out of the caves. Let's head north!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:495
+msgid "Pass the underground canal (signpost) with the galleon."
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:518
+msgid "$unit.name finds a golden armor. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:519
+msgid "Golden Armour^Take it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:520
+msgid "Golden Armour^Leave it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:526
+msgid "$unit.name the ring of life. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:527
+msgid "Ring of Life^Take it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:528
+msgid "Ring of Life^Leave it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:534
+msgid "$unit.name finds an old chest. Should he open it?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/16_Southern_Caves.cfg:542
+msgid "There are jewels in the the chest (200 gold)."
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:552
+msgid "$unit.name finds a stone-coffin. Should he open it?"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:553
+msgid "Coffin^Loot it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:554
+msgid "Coffin^Leave it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:555
+msgid "$unit.name cannot open this coffin."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/16_Southern_Caves.cfg:560
+msgid ""
+"Here lies Talinn, head of the Dwarven Clan.\n"
+"\n"
+"The sarcophagus contains various pieces of jewelry (150 gold)."
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:573
+msgid "$unit.name a green cloak. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:574
+msgid "Green Cloak^Take it"
+msgstr ""
+
+#. [scenario]: id=16_Southern_Caves
+#: Roboke/scenarios/16_Southern_Caves.cfg:575
+msgid "Green Cloak^Leave it"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/16_Southern_Caves.cfg:664
+msgid "On y va."
+msgstr ""
+
+#. [scenario]: id=17_Through_the_Hills
+#: Roboke/scenarios/17_Through_the_Hills.cfg:7
+msgid "Through the Hills"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/17_Through_the_Hills.cfg:24
+msgid ""
+"Now that the gate is open, we can take the fleet up north.\n"
+"  The castle-keep there (or rather the village next to it) has a hidden entrance to the caves.\n"
+"  That will allow us to fortify our position north of the crater."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/17_Through_the_Hills.cfg:30
+msgid "The remaining troops will re-enter via the cave and march to the southern end of the crater."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/17_Through_the_Hills.cfg:39
+msgid "First we take the caves, then we take the crater."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/17_Through_the_Hills.cfg:149
+msgid "Move galleon to the north-western castle (take the castle from the bats)"
+msgstr ""
+
+#. [scenario]: id=18_Secret_Passages
+#: Roboke/scenarios/18_Secret_Passages.cfg:7
+msgid "18_Insidious Deceit"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/18_Secret_Passages.cfg:18
+msgid "Meanwhile on the west-shore..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:85
+msgid "That's that, then. On with the cleaning everyone."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:88
+msgid "Look! The southern river is waning!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:99
+msgid "Skeleton"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:103
+msgid "Bwahahahahaha."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:104
+msgid "Aaaaaa. -- What is that? - Looks like the cleaning will have to wait."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:106
+msgid "Druila"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:107
+msgid "Personally, I'd rather clean the land from these abominations than clean the queen's castle."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:133
+msgid "Tat, tat. You go first then, Druila."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:137
+msgid "Defeat the cave dweller"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:138
+msgid "Death of Blackie"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:140
+msgid "the gold will be carried over to other Blackie scenarios"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:150
+msgid "The queen isn't here!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:151
+msgid "But there is an uncovered trapdoor in the floor that I have never seen before. It looks Dwarvish and I cannot open it."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:154
+msgid "I am not sure if this is good or bad news, but let us worry about the queen later."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/18_Secret_Passages.cfg:155
+msgid "Thanks, $unit.name. I am not sure if this is good or bad news, but let us worry about the queen later."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/scenarios/19_Reunion.cfg:22
+msgid "There are $goldamount gold pieces stashed here."
+msgstr ""
+
+#. [scenario]: id=19_Reunion
+#: Roboke/scenarios/19_Reunion.cfg:39
+msgid "Reunion"
+msgstr ""
+
+#. [side]: type=Peasant, id=TempMan
+#: Roboke/scenarios/19_Reunion.cfg:76
+#: Roboke/scenarios/21_Crater_Island.cfg:52
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:61
+#: Roboke/utils/characters.cfg:39
+msgid "Monsieur Canoneér"
+msgstr ""
+
+#. [side]: id=Oceb, type=Necromancer
+#. [side]: id=Oceb, type=Ancient Lich
+#: Roboke/scenarios/19_Reunion.cfg:96
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:116
+#: Roboke/scenarios/24_Failsafe.cfg:77
+msgid "Oceb"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:242
+msgid "If I ever make it back to Knalga, I'll have to build an underground lake for these Galleons."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:261
+msgid "We've made it here, now lets move west towards the crater."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:264
+msgid "The mermen went alongside the fleet. Monsieur Canoneér recruits them now."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:278
+msgid "You can't kill me. I am already dead."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:281
+msgid "But I, La'ana who lives inside you can."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:284
+msgid "Bwahaha, Not that fast, my lady."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:335
+msgid "There is more of that yellow powder here."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/19_Reunion.cfg:336
+msgid ""
+"Perfect. And stone to produce for cannonballs en-mass, as well. That'll allow us to upgrade more Galleons!\n"
+"  I'll see to that things will be ready for the next scenario."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:24
+msgid ""
+"Mage, Elf, Dragon.\n"
+"\n"
+"La'ana's Diary."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:30
+msgid ""
+"Fight fire with fire.\n"
+"\n"
+"I was fascinated by fire ever since I was able to produce the first fairy-fire sparks, which happened to me at a\n"
+"rather early age. It was only natural that I wanted to become an elvish sorceress and my childhood dreams were\n"
+"overambitious, 'I the master of faerie fire', which in retrospect to where I am heading for now, was a small goal.\n"
+"\n"
+"While I progressed very quickly to an enchantress, nature is cruel. My inner nature was agitated with fire and while\n"
+"I far surpassed many Elvish Sylph in skill and experience, it was not until I reached this island that my mind became\n"
+"calm enough to levitate and become a true Sylph.\n"
+"\n"
+"It was eight years ago now when I found a young mage honing his skills at the edge of the Aethenwood close to Blackwater Port.\n"
+"While similar in effect, the fire that human mages can produce is a vastly different process than the arcane faerie fire.\n"
+"\n"
+"For the first two years it was Ignisador who was learning, even though he chose the Red-Mage path he retained a\n"
+"strong connection to the arcane and eventually managed to produce arcane fire, even though it more resembled light.\n"
+"\n"
+"I had a much harder time to master magical flames. We discussed, experimented and analyzed the properties, the\n"
+"process, the transformation. The question about the true nature of fires which inevitable posed the question if\n"
+"existence as pure energy is possible.\n"
+"\n"
+"Do those Fire-Guardian Spirits have a soul, a mind even, or do they act on instinct alone?\n"
+"How does arcane instinct and mind differ from natural fire...?"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:55
+msgid ""
+"Behold the Dragon.\n"
+"\n"
+"One day Ignisador came running. While purchasing artifacts from seafarers in Blackwater Port, he heard a rumor\n"
+"about nasty 'Fire Dragon'. We always only speculated about the existence of such a being, and here was the opportunity.\n"
+"\n"
+"I was ready for departure withing the hour. It required a few tricks to coax the right information out of\n"
+"the right people, but we boarded up on a large galleon sailing west only two days after that.\n"
+"\n"
+"It was on the second day on board when I saw a memory reflected in the eyes of the captain:\n"
+"  A huge Fire Dragon flying high over a vast volcano.\n"
+"\n"
+"The month long journey on the sea was one of the most intense time of our lives.\n"
+"Ignisador and I, holed up together 24 hours a day, dreaming and scheming.\n"
+"\n"
+"How to beast approach the being? Can we communicate? Can we subdue or master it?\n"
+"\n"
+"Would it even be possible for one of us to even reach the state of existence as pure fire?"
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:75
+msgid ""
+"Beware of the Dragon.\n"
+"\n"
+"After the intense journey however it took us quite a long time and lots of cunning before we could even get close\n"
+"to our goals. The population on the island was rather intent to locking the Dragon and drakes in. Foolish attempts\n"
+"to even destroy it. But these attempts were nothing against the chaos in their social situation.\n"
+"\n"
+"An old priestess eventually lead us to to a cave-entrance where drakes had last been seen.\n"
+"I think she was learned in the arts of arcane magic and curious herself, as she was secretly following us.\n"
+"\n"
+"We sneaked on Dwarven-paths though deep mines, in water and though tall mountains.\n"
+"It was there with the closeness of natural lava, fire, earth and water where my sylphish spirit truly awakened.\n"
+"\n"
+"Ignisador transcended as well, though I was too engulfed in myself to realize what was happening to him.\n"
+"\n"
+"In the following weeks, we built a small hideout, a shack in the mountains, right over the dragons lair\n"
+"on the southern side of the crater. It was amazing to study the creature in such close proximity."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:94
+msgid ""
+"Behold the Dragon.\n"
+"\n"
+"It was only a matter of time until our shared curiosity turned into competition.\n"
+"Who would make the first contact?\n"
+"Who would first achieve the state of a pure fire existence?\n"
+"\n"
+"Surely, I, the older, more wise, more natural being should take the first step.\n"
+"\n"
+"I will try tomorrow."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:106
+msgid ""
+"Like a tongue on frozen steel.\n"
+"\n"
+"I have learned to write again.\n"
+"It took me two years to figure out how.\n"
+"It was actually not the technique, but the lack of motivation to write. Until now.\n"
+"\n"
+"Ignisador is dead. He sacrificed himself in a foolish attempt to stop me.\n"
+"Or maybe it was his plan all along: The eternal flame.\n"
+"\n"
+"Bound beyond life and death, the arcane spirit feeding the mundane flame.\n"
+"\n"
+"I was halfway between myself and the fire when it happened. We consumed him, fire devoured him, but his body alone.\n"
+"While I am bound with the dragon, his souls is roaming free. Unable to manifest for as long as the trinity prevails.\n"
+"\n"
+"I write this because his soul started to posses the bodies of those who were drowned by the Dwarf's flooding of the caves.\n"
+"It seems a desperate attempt to reverse the damage, but I cannot reach his mind.\n"
+"\n"
+"I am the Dragon, and the dragon lives in my body. Fire made flesh is as tempting as flesh made fire.\n"
+"We maintain the equilibrium against those who fight it. I only never imagined that Ignisador, our\n"
+"bonder, would turn into our greatest nemesis.\n"
+"\n"
+"His experiences with the undead and the power he draws from us is a great and unprecedented danger.\n"
+"He is feeding us with blood. Blindly trying to spoil us, but he cannot see. Fire burns everything.\n"
+"\n"
+"What he has yet to realize is that it is him, Ignisador, who now calls himself Oceb, that binds us three together.\n"
+"I am not yet ready to let go."
+msgstr ""
+
+#. [part]
+#: Roboke/scenarios/20_Kalalau_Lair.cfg:136
+msgid ""
+"If you read this, the bond has been broken.\n"
+"\n"
+"You will find me in the flames."
+msgstr ""
+
+#. [scenario]: id=21_Crater_Island
+#: Roboke/scenarios/21_Crater_Island.cfg:7
+msgid "Crater Island"
+msgstr ""
+
+#. [side]: id=Kalalau, type=Fire Dragon
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:71
+#: Roboke/scenarios/24_Failsafe.cfg:208
+msgid "Ka'la'lau"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:156
+msgid "Monsieur Canoneér can now equip (ie recruit) Dwarven Galleons."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:159
+msgid "Since we can now construct more galleons, let's keep the origignal prototype safe."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:184
+msgid "This is it, then (TODO insert some motivating battle speech)."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:187
+msgid "Defeat the dragon"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:213
+#: Roboke/scenarios/24_Failsafe.cfg:174
+msgid "Roooooooaaaaaar!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:239
+msgid "Poof. She just vanished?!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/21_Crater_Island.cfg:240
+msgid "It's the necromancer's ghost that we need to go after."
+msgstr ""
+
+#. [scenario]: id=22_Caves_of_Oceb
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:4
+msgid "The Caves of Oceb"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:186
+msgid "Do you want to marshal Blackie's units, too?"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:188
+msgid "Yes, I'll take care of them."
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:197
+msgid "No, I'll leave it up to the computer."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/22_Caves_of_Oceb.cfg:207
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:9
+msgid "The Ghost of Oceb"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:324
+msgid "We've set up a makeshift camp out here. Living in cave-castles gives me the creeps."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:326
+msgid "Wha?!? I went back to this very charming cave-castle."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:327
+msgid "Our shaman has also prepared holy water."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:331
+msgid "Do you want to marshal Blackie's units (on top of Roboke and Canoneér)?"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:333
+msgid "Yes, please. I can do three teams!"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:342
+msgid "No, managing two is more than enough. I'll leave it up to the computer."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:348
+msgid "You shall not pass!"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:357
+msgid "What ARE you doing?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:358
+msgid "I always wanted to try that."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:359
+msgid "Bring it back. There are villages on the other side.."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:360
+msgid "Mmh. Ok."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:369
+msgid "Search and defeat Oceb's Ghost"
+msgstr ""
+
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:378
+msgid "You can't kill me. I am already dead. Bwahhaha."
+msgstr ""
+
+#. [scenario]: id=23_Ghost_of_Oceb
+#: Roboke/scenarios/23_Ghost_of_Oceb.cfg:419
+msgid "$unit.name finds a flame-sword. Should he pick it up?"
+msgstr ""
+
+#. [scenario]: id=24_Failsafe
+#: Roboke/scenarios/24_Failsafe.cfg:52
+msgid "Failsafe"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:119
+msgid "Aaaah what is happening to me?"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:142
+msgid "I think, I'll better get out of here, fast."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:159
+msgid "...Three deaths you shall die to be reborn in fire..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:163
+msgid "..one soul bound to flesh, burning desire..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:168
+msgid "...and thy magic spell of quackmire..."
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:204
+msgid "Dakarimur"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:206
+msgid "L'lana"
+msgstr ""
+
+#. [event]
+#: Roboke/scenarios/24_Failsafe.cfg:245
+msgid "Gwaihir"
+msgstr ""
+
+#. [floating_text]
+#: Roboke/scenarios/24_Failsafe.cfg:298
+msgid "Quaak!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Roboke/scenarios/25_Fin.cfg:84
+msgid "Would you like to explore the whole island?"
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/25_Fin.cfg:86
+msgid "Sure, why not?"
+msgstr ""
+
+#. [command]
+#: Roboke/scenarios/25_Fin.cfg:90
+msgid "Have fun"
+msgstr ""
+
+#. [command]
+#: Roboke/scenarios/25_Fin.cfg:92
+msgid "Move any unit to (69,61) to end this campaign."
+msgstr ""
+
+#. [option]
+#: Roboke/scenarios/25_Fin.cfg:97
+msgid "No, thanks"
+msgstr ""
+
+#. [scenario]: id=25_Fin
+#: Roboke/scenarios/25_Fin.cfg:156
+msgid "$unit.name finds the golden ring of speed. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Roboke/scenarios/25_Fin.cfg:163
+msgid "Ring of Speed"
+msgstr ""
+
+#. [object]
+#: Roboke/scenarios/25_Fin.cfg:165
+msgid "Increases the speed of the wearer by 200%."
+msgstr ""
+
+#. [unit_type]: id=Amazon Archer, race=human
+#: Roboke/units/Amazon_Archer.cfg:4
+msgid "female^Amazon Archer"
+msgstr ""
+
+#. [unit_type]: id=Amazon Archer, race=human
+#: Roboke/units/Amazon_Archer.cfg:19
+msgid "Amazon warriors have a reputation for archery, a skill that comes is honed from an early age. They are natural hunters which leaves them mainly inexperienced in close combat."
+msgstr ""
+
+#. [attack]: type=blade
+#: Roboke/units/Amazon_Archer.cfg:35
+#: Roboke/units/Amazon_Avenger.cfg:53
+#: Roboke/units/Amazon_Marksman.cfg:48
+#: Roboke/units/Amazon_Ranger.cfg:49
+#: Roboke/units/Amazon_Sharpshooter.cfg:39
+msgid "scimitar"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Roboke/units/Amazon_Archer.cfg:44
+#: Roboke/units/Amazon_Avenger.cfg:62
+#: Roboke/units/Amazon_Ranger.cfg:58
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Amazon Avenger, race=human
+#: Roboke/units/Amazon_Avenger.cfg:4
+msgid "female^Amazon Avenger"
+msgstr ""
+
+#. [unit_type]: id=Amazon Avenger, race=human
+#: Roboke/units/Amazon_Avenger.cfg:20
+msgid ""
+"The curious name of the amazon ‘Avengers’ comes from a tactic often employed by these master rangers. The enemy is allowed to break through a feint defense, and when the vulnerable troops behind the front line follow, these archers break cover and attack, cutting the supply lines and surrounding the enemy in one fell stroke.\n"
+"\n"
+"This has, at times, been interpreted as a form of vengeance for their brethren lost earlier in the battle. Although not so base in design, it is not at all inaccurate."
+msgstr ""
+
+#. [unit_type]: id=Amazon Marksman, race=human
+#: Roboke/units/Amazon_Marksman.cfg:4
+msgid "female^Amazon Markswoman"
+msgstr ""
+
+#. [unit_type]: id=Amazon Marksman, race=human
+#: Roboke/units/Amazon_Marksman.cfg:19
+msgid "Markswomen are those Amazon who follow the path of hero cults. They are usually keen-sighted, a gift which contributes to their mastery of the bow. An amazon practiced at archery can hit targets that a man couldn’t even see, and can nock a second arrow almost as soon as the first is let fly. They are ferocious warriors yet realizing this prodigious skill come at the cost, lack of practice with the scimitar."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Roboke/units/Amazon_Marksman.cfg:57
+#: Roboke/units/Amazon_Sharpshooter.cfg:48
+msgid "longbow"
+msgstr ""
+
+#. [unit_type]: id=Amazon Ranger, race=human
+#: Roboke/units/Amazon_Ranger.cfg:3
+msgid "female^Amazon Ranger"
+msgstr ""
+
+#. [unit_type]: id=Amazon Ranger, race=human
+#: Roboke/units/Amazon_Ranger.cfg:19
+msgid "Amazon rangers predominantly emphasize their skill at hunting and life outdoors. Studying the lore of the woods and the sands they rapidly become a master of them. This, combined with a considerable skill at archery and swordsmanship, is very useful in warfare."
+msgstr ""
+
+#. [unit_type]: id=Amazon Sharpshooter, race=human
+#: Roboke/units/Amazon_Sharpshooter.cfg:4
+msgid "female^Amazon Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Amazon Sharpshooter, race=human
+#: Roboke/units/Amazon_Sharpshooter.cfg:20
+msgid "The sharpshooters are master the art of archery. There was a legend of an amazon who stopped an arrow by shooting it out of the air with one of her own. It is this hero-cult of the amazon that motivates them; controlling a battle from the distance. They have a saying that 'No girl shall wed till she has killed a man in battle'."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Galleon, race=mechanical
+#: Roboke/units/Dwarvish_Galleon.cfg:5
+msgid "Dwarvish Galleon"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Galleon, race=mechanical
+#: Roboke/units/Dwarvish_Galleon.cfg:19
+msgid "A Galleon tweaked by a vicious Dwarf (who also sometimes hides below deck)."
+msgstr ""
+
+#. [attack]: type=impact
+#: Roboke/units/Dwarvish_Galleon.cfg:23
+#: Roboke/units/Speed_Boat.cfg:22
+msgid "ram"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Roboke/units/Dwarvish_Galleon.cfg:32
+msgid "ballista"
+msgstr ""
+
+#. [attack]: type=impact
+#: Roboke/units/Dwarvish_Galleon.cfg:70
+msgid "ship-mounted Dwarvish Canons"
+msgstr ""
+
+#. [attacks]: id=canonballs
+#: Roboke/units/Dwarvish_Galleon.cfg:79
+msgid "Canonfire"
+msgstr ""
+
+#. [attacks]: id=canonballs
+#: Roboke/units/Dwarvish_Galleon.cfg:80
+msgid "When used offensively, two cannons are prepared. The second round is fired after the enemy attack."
+msgstr ""
+
+#. [unit_type]: id=SpeedBoat, race=mechanical
+#: Roboke/units/Speed_Boat.cfg:5
+msgid "Speed Boat"
+msgstr ""
+
+#. [unit_type]: id=SpeedBoat, race=mechanical
+#: Roboke/units/Speed_Boat.cfg:19
+msgid "Speed Boats are streamlined version of the casual boats for pirate operations. They have a hardened bug to allow ramming."
+msgstr ""
+
+#. [set_menu_item]: id=mi_ship
+#: Roboke/utils/captndwarf.cfg:28
+msgid "Board ship"
+msgstr ""
+
+#. [message]: id=boatone
+#: Roboke/utils/captndwarf.cfg:77
+msgid "There is a village close by, disembark?"
+msgstr ""
+
+#. [option]
+#: Roboke/utils/captndwarf.cfg:79
+msgid "Aye, anchor here."
+msgstr ""
+
+#. [option]
+#: Roboke/utils/captndwarf.cfg:115
+msgid "No, let's keep sailing."
+msgstr ""
+
+#. [message]: id=Canoneer
+#: Roboke/utils/captndwarf.cfg:151
+msgid "Shall I Board the ship?"
+msgstr ""
+
+#. [option]
+#: Roboke/utils/captndwarf.cfg:153
+msgid "Aye, anchors away!"
+msgstr ""
+
+#. [option]
+#: Roboke/utils/captndwarf.cfg:159
+msgid "Nay, not now."
+msgstr ""
+
+#. [set_menu_item]: id=mi_cave
+#: Roboke/utils/cave.cfg:21
+msgid "switch to cave"
+msgstr ""
+
+#. [set_menu_item]: id=mi_cave
+#: Roboke/utils/cave.cfg:34
+msgid "switch to land"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Roboke/utils/cave.cfg:279
+msgid "There are jewels in the cave-wall ($goldamount gold)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Roboke/utils/characters.cfg:121
+#: Roboke/utils/characters.cfg:6
+msgid "Captain Roboke"
+msgstr ""
+
+#: Roboke/utils/characters.cfg:55
+msgid "Mistress Rosie"
+msgstr ""
+
+#: Roboke/utils/characters.cfg:72
+msgid "Madame Meré"
+msgstr ""
+
+#: Roboke/utils/characters.cfg:84
+msgid "Queen Ronya"
+msgstr ""
+
+#: Roboke/utils/characters.cfg:98
+msgid "Mistress Blackie"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Roboke/utils/characters.cfg:112
+msgid "Rosie"
+msgstr ""
+
+#. [message]: id=Roboke
+#: Roboke/utils/deaths.cfg:68
+msgid "Oh no! (Famous last words)"
+msgstr ""
+
+#. [message]: id=Roboke
+#: Roboke/utils/deaths.cfg:79
+msgid "Without the ship and its supplies we are lost. Well, maybe life as among these beautiful amazon on the beach is not too bad after all.."
+msgstr ""
+
+#. [objective]: condition=win
+#: Roboke/utils/objectives.cfg:12
+msgid "Resist until the end of turns"
+msgstr ""
+
+#: Roboke/utils/objectives.cfg:73
+msgid "Death of any hero"
+msgstr ""
+
